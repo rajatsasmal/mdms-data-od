@@ -126,6 +126,16 @@
             "latitude": null,
             "label": "Locality",
             "code": "VIL11"
+          },
+	  {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Rayagada Nagar",
+            "localname": "Rayagada Nagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL12"
           }
         ]
       }
@@ -254,6 +264,16 @@
             "latitude": null,
             "label": "Locality",
             "code": "VIL11"
+          },
+	  {
+            "id": "13",
+            "boundaryNum": 1,
+            "name": "Rayagada Nagar",
+            "localname": "Rayagada Nagar",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL12"
           }
         ]
       }
