@@ -7,7 +7,7 @@
             "startingDay": 1648751400000,
             "endingDay": 1680287399000,
             "fromFY": "2022-23",
-            "isActive": true
+            "isActive": false
         },
         {
             "annualRebate": 5,
