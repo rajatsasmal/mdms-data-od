@@ -8,11 +8,7 @@
       "riskType": "ALL",
       "nocTriggerState": "DOC_VERIFICATION_INPROGRESS",
       "nocTypes": [
-              {
-          "type": "NMA_NOC",
-          "required": true,
-          "documentType": "NOC.NMA"
-        }
+              
       ]
     },
     {
@@ -21,11 +17,7 @@
       "riskType": "LOW",
       "nocTriggerState": "DOC_VERIFICATION_INPROGRESS",
       "nocTypes": [
-              {
-          "type": "NMA_NOC",
-          "required": true,
-          "documentType": "NOC.NMA"
-        }
+              
       ]
     },
     {
@@ -34,11 +26,7 @@
       "riskType": "ALL",
       "nocTriggerState": "DOC_VERIFICATION_INPROGRESS",
       "nocTypes": [
-              {
-          "type": "NMA_NOC",
-          "required": true,
-          "documentType": "NOC.NMA"
-        }
+              
       ]
     },
     {
@@ -47,11 +35,7 @@
       "riskType": "LOW",
       "nocTriggerState": "DOC_VERIFICATION_INPROGRESS",
       "nocTypes": [
-              {
-          "type": "NMA_NOC",
-          "required": true,
-          "documentType": "NOC.NMA"
-        }
+              
       ]
     }
   ]
