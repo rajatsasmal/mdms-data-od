@@ -22651,6 +22651,18 @@
       "actionid": 3232,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_THIRD_PARTY_VIEWER",
+      "actionid": 3233,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_THIRD_PARTY_VIEWER",
+      "actionid": 1930,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }

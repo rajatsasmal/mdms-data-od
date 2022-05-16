@@ -12669,6 +12669,17 @@
          "serviceCode": "BPAREPORTS",
          "code": "null",
          "path": "Payment Detail Report"
+     },
+     {
+      "id": 3233,
+      "name": "BPA-applicationsearch",
+      "url": "/bpa-services/v1/bpa/_get",
+      "displayName": "Search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "BPA",
+      "code": "null",
+      "path": ""
      }
    ]
 }

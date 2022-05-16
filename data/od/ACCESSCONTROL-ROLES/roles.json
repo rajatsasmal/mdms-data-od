@@ -866,6 +866,11 @@
       "code":"COMMON_REPORT_VIEWER",
       "name":"Common Reports Viewer",
       "description":"BPA Report Viewer"
+    },
+    {
+      "code":"BPA_THIRD_PARTY_VIEWER",
+      "name":"Third Party Viewer",
+      "description":"Third Party Viewer"
     }
   ]
 }
