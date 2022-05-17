@@ -12683,6 +12683,18 @@
      },
      {
       "id": 3234,
+      "name": "DSS Dashboard Config obps",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/obps",
+      "parentModule": "",
+      "displayName": "DSS",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": ""
+    },
+     {
+      "id": 3235,
       "name": "Dashboard OBPS",
       "url": "url",
       "displayName": "OBPS",
