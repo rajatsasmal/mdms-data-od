@@ -22663,6 +22663,12 @@
       "actionid": 1930,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "STADMIN",
+      "actionid": 3234,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
