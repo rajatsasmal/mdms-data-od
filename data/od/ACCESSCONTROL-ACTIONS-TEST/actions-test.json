@@ -12680,6 +12680,21 @@
       "serviceCode": "BPA",
       "code": "null",
       "path": ""
-     }
+     },
+     {
+      "id": 3234,
+      "name": "Dashboard OBPS",
+      "url": "url",
+      "displayName": "OBPS",
+      "orderNumber": 4,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": "Dashboard.OBPS",
+      "navigationURL": "/digit-ui/employee/dss/dashboard/obps",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    }
    ]
 }
