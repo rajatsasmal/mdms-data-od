@@ -12711,7 +12711,7 @@
     {
      "id": 3236,
      "name": "BPA-applicationsearch",
-     "url": "/bpa-services/v1/bpa/_plainsearch",
+     "url": "/bpa-services/v1/bpa/_reportsearch",
      "displayName": "Search",
      "orderNumber": 0,
      "enabled": false,
