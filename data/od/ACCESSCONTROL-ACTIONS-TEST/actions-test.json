@@ -12680,6 +12680,17 @@
       "serviceCode": "BPA",
       "code": "null",
       "path": ""
+     },
+     {
+      "id": 3234,
+      "name": "BPA-applicationsearch",
+      "url": "/bpa-services/v1/bpa/_plainsearch",
+      "displayName": "Search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "BPA",
+      "code": "null",
+      "path": ""
      }
    ]
 }
