@@ -12683,14 +12683,41 @@
      },
      {
       "id": 3234,
-      "name": "BPA-applicationsearch",
-      "url": "/bpa-services/v1/bpa/_plainsearch",
-      "displayName": "Search",
+      "name": "DSS Dashboard Config obps",
+      "url": "/dashboard-analytics/dashboard/getDashboardConfig/obps",
+      "parentModule": "",
+      "displayName": "DSS",
       "orderNumber": 0,
       "enabled": false,
-      "serviceCode": "BPA",
+      "serviceCode": "DSS",
       "code": "null",
       "path": ""
-     }
+    },
+     {
+      "id": 3235,
+      "name": "Dashboard OBPS",
+      "url": "url",
+      "displayName": "OBPS",
+      "orderNumber": 4,
+      "parentModule": "dss-dashboard",
+      "enabled": true,
+      "serviceCode": "DSS",
+      "code": "null",
+      "path": "Dashboard.OBPS",
+      "navigationURL": "/digit-ui/employee/dss/dashboard/obps",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
+    },
+    {
+     "id": 3236,
+     "name": "BPA-applicationsearch",
+     "url": "/bpa-services/v1/bpa/_plainsearch",
+     "displayName": "Search",
+     "orderNumber": 0,
+     "enabled": false,
+     "serviceCode": "BPA",
+     "code": "null",
+     "path": ""
+    }
    ]
 }
