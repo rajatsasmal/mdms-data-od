@@ -12707,6 +12707,17 @@
       "navigationURL": "/digit-ui/employee/dss/dashboard/obps",
       "leftIcon": "places:business-center",
       "rightIcon": ""
+    },
+    {
+     "id": 3236,
+     "name": "BPA-applicationsearch",
+     "url": "/bpa-services/v1/bpa/_reportsearch",
+     "displayName": "Search",
+     "orderNumber": 0,
+     "enabled": false,
+     "serviceCode": "BPA",
+     "code": "null",
+     "path": ""
     }
    ]
 }
