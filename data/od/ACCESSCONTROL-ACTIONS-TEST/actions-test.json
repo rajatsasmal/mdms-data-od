@@ -12718,6 +12718,17 @@
      "serviceCode": "BPA",
      "code": "null",
      "path": ""
+    },
+    {
+     "id": 3237,
+     "name": "BPA-applicationsearch",
+     "url": "/bpa-services/v1/citizen/_search",
+     "displayName": "Search",
+     "orderNumber": 0,
+     "enabled": false,
+     "serviceCode": "BPA",
+     "code": "null",
+     "path": ""
     }
    ]
 }

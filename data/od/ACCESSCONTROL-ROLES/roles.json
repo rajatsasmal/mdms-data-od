@@ -871,6 +871,11 @@
       "code":"BPA_THIRD_PARTY_VIEWER",
       "name":"Third Party Viewer",
       "description":"Third Party Viewer"
+    },
+    {
+      "code":"BPA_ARC_APPROVER",
+      "name":"BPA Accredited Person",
+      "description":"BPA Accredited Person"
     }
   ]
 }

@@ -22669,6 +22669,18 @@
       "actionid": 3235,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3237,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3237,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
