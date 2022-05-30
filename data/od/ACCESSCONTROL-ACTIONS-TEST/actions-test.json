@@ -12720,15 +12720,27 @@
      "path": ""
     },
     {
-     "id": 3237,
-     "name": "BPA-applicationsearch",
-     "url": "/bpa-services/v1/citizen/_search",
-     "displayName": "Search",
-     "orderNumber": 0,
-     "enabled": false,
-     "serviceCode": "BPA",
-     "code": "null",
-     "path": ""
-    }
+      "id": 3237,
+      "name": "TL-applicationsearch",
+      "url": "/tl-services/v1/_reportsearch",
+      "displayName": "Search",
+      "orderNumber": 2,
+      "parentModule": "303",
+      "enabled": false,
+      "serviceCode": "TL",
+      "code": "null",
+      "path": ""
+      },
+      {
+      "id": 3238,
+      "name": "UserSearch",
+      "url": "/user/_usersearch",
+      "displayName": "User Search",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+      }
    ]
 }
