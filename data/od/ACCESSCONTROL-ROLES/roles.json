@@ -881,6 +881,11 @@
       "code":"TL_THIRD_PARTY_VIEWER",
       "name":"Third Party Viewer",
       "description":"TL Third Party Viewer"
+    },
+    {
+      "code":"MR_THIRD_PARTY_VIEWER",
+      "name":"Third Party Viewer",
+      "description":"MR Third Party Viewer"
     }
   ]
 }

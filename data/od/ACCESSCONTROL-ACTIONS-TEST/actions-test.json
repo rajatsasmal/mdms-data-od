@@ -12741,6 +12741,18 @@
       "serviceCode": "ADMIN",
       "code": "null",
       "path": ""
+      },
+      {
+         "id": 3239,
+         "name": "Search MarriageRegistration",
+         "url": "/mr-services/v1/_reportsearch",
+         "parentModule": "",
+         "displayName": "Search MarriageRegistration",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "mr-services",
+         "code": "null",
+         "path": ""
       }
    ]
 }
