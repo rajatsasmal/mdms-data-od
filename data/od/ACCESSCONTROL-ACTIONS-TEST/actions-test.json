@@ -12733,9 +12733,9 @@
       },
       {
       "id": 3238,
-      "name": "UserSearch",
-      "url": "/user/_usersearch",
-      "displayName": "User Search",
+      "name": "RestrictedUserSearch",
+      "url": "/user/_restrictedSearch",
+      "displayName": "User restricted search",
       "orderNumber": 1,
       "enabled": false,
       "serviceCode": "ADMIN",
