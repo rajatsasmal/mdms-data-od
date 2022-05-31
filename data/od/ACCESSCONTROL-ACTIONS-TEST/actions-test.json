@@ -12718,6 +12718,41 @@
      "serviceCode": "BPA",
      "code": "null",
      "path": ""
-    }
+    },
+    {
+      "id": 3237,
+      "name": "TL-applicationsearch",
+      "url": "/tl-services/v1/_reportsearch",
+      "displayName": "Search",
+      "orderNumber": 2,
+      "parentModule": "303",
+      "enabled": false,
+      "serviceCode": "TL",
+      "code": "null",
+      "path": ""
+      },
+      {
+      "id": 3238,
+      "name": "UserSearch",
+      "url": "/user/_usersearch",
+      "displayName": "User Search",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "ADMIN",
+      "code": "null",
+      "path": ""
+      },
+      {
+         "id": 3239,
+         "name": "Search MarriageRegistration",
+         "url": "/mr-services/v1/_reportsearch",
+         "parentModule": "",
+         "displayName": "Search MarriageRegistration",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "mr-services",
+         "code": "null",
+         "path": ""
+      }
    ]
 }
