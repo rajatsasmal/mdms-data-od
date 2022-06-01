@@ -3231,6 +3231,9 @@
         },
         {
           "code": "od.berhampur"
+        },
+        {
+          "code": "od.testing"
         }
       ]
     },
@@ -3599,6 +3602,9 @@
         },
         {
           "code": "od.berhampur"
+        },
+        {
+          "code": "od.testing"
         }
       ]
     },
@@ -3616,40 +3622,9 @@
         },
         {
           "code": "od.berhampur"
-        }
-      ]
-    },
-    {
-      "module": "Engagement",
-      "code": "Engagement",
-      "active": true,
-      "order":3,
-      "tenants": [
-        {
-          "code": "od.dhenkanal"
         },
         {
-          "code": "od.balasore"
-        },
-        {
-          "code": "od.berhampur"
-        }
-      ]
-    },
-    {
-      "module": "DSS",
-      "code": "DSS",
-      "active": true,
-      "order":6,
-      "tenants": [
-       {
-          "code": "od.dhenkanal"
-        },
-        {
-          "code": "od.balasore"
-        },
-        {
-          "code": "od.berhampur"
+          "code": "od.testing"
         }
       ]
     }
