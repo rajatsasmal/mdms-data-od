@@ -391,26 +391,6 @@
     },
     {
       "category": "FEE",
-      "service": "BPA.NC_SAN_FEE",
-      "name": "BPA Building Operation Fee Rework Adjustment Amount",
-      "code": "BPA_BLDNG_OPRN_FEE_REWORK_ADJUSTMENT",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "2",
-      "isRequired": false
-    },
-    {
-      "category": "FEE",
-      "service": "BPA.NC_SAN_FEE",
-      "name": "BPA Land Development Fee Rework Adjustment Amount",
-      "code": "BPA_LAND_DEV_FEE_REWORK_ADJUSTMENT",
-      "isDebit": false,
-      "isActualDemand": true,
-      "order": "2",
-      "isRequired": false
-    },
-    {
-      "category": "FEE",
       "service": "BPA.NC_OC_APP_FEE",
       "name": "BPA OC Application Fee",
       "code": "BPA_OC_APPL_FEES",
