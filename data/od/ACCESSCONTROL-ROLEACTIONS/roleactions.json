@@ -22693,6 +22693,18 @@
       "actionid": 3240,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_VERIFIER",
+      "actionid": 3241,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PREAPPROVED_PLAN_ADMIN",
+      "actionid": 3241,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }

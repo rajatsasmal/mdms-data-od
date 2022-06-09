@@ -886,6 +886,11 @@
       "code":"MR_THIRD_PARTY_VIEWER",
       "name":"Third Party Viewer",
       "description":"MR Third Party Viewer"
+    },
+    {
+      "code": "PREAPPROVED_PLAN_ADMIN",
+      "name": "PREAPPROVED_PLAN_ADMIN",
+      "description": "administrator for preapproved plans"
     }
   ]
 }
