@@ -15,10 +15,6 @@
         {
           "tenantId": "od.angul",
           "cost": "1500"
-        },
-        {
-          "tenantId": "od.balugaon",
-          "cost": "501"
         }
       ]
     }
