@@ -12828,6 +12828,39 @@
          "navigationURL": "report/rainmaker-pt/GetLegacyPropertyTransactionDetails",
          "leftIcon": "action:assignment",
          "rightIcon": ""
+      },
+      {
+         "id": 3245,
+         "name": "BPA-preapprovedplansearch",
+         "url": "/bpa-services/v1/preapprovedplan/_search",
+         "displayName": "Search",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "BPA",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3246,
+         "name": "BPA-createpreapprovedplan",
+         "url": "/bpa-services/v1/preapprovedplan/_create",
+         "displayName": "Apply",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "BPA",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3247,
+         "name": "BPA-updatepreapprovedplan",
+         "url": "/bpa-services/v1/preapprovedplan/_update",
+         "displayName": "Apply",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "BPA",
+         "code": "null",
+         "path": ""
       }
    ]
 }
