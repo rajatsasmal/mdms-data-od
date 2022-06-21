@@ -12861,6 +12861,20 @@
          "serviceCode": "BPA",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 3248,
+         "name": "TLManageTrade",
+         "url": "url",
+         "displayName": "Manage Trade",
+         "orderNumber": 14,
+         "parentModule": "",
+         "enabled": false,
+         "serviceCode": "TradeLicense",
+         "code": "null",
+         "navigationURL": "tradelicence/managetrade",
+         "path": "TradeLicense.Manage Trade",
+         "leftIcon": "places:business-center"
       }
    ]
 }

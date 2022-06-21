@@ -891,6 +891,11 @@
       "code": "PREAPPROVED_PLAN_ADMIN",
       "name": "PREAPPROVED_PLAN_ADMIN",
       "description": "administrator for preapproved plans"
+    },
+    {
+      "code": "TL_MANAGER",
+      "name": "TL Manager",
+      "description": "Employee who manages business related changes for Tradelicense"
     }
   ]
 }
