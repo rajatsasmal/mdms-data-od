@@ -22831,6 +22831,30 @@
       "actionid": 3245,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "TL_MANAGER",
+      "actionid": 3248,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "TL_MANAGER",
+      "actionid": 1682,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "TL_MANAGER",
+      "actionid": 1683,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "TL_MANAGER",
+      "actionid": 1684,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
