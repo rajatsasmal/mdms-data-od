@@ -12786,6 +12786,81 @@
          "quickAction": true,
          "leftIcon": "communication:business",
          "rightIcon": ""
+      },
+      {
+         "id": 3242,
+         "name": "Get Legacy Property Transaction Details",
+         "url": "/report/rainmaker-pt/GetLegacyPropertyTransactionDetails/metadata/_get",
+         "displayName": "Get Legacy Property Transaction Details",
+         "orderNumber": 1,
+         "enabled": true,
+         "serviceCode": "PROPERTYREPORTS",
+         "code": "null",
+         "path": "Get Legacy Property Details"
+      },
+      {
+         "id": 3243,
+         "name": "Get Legacy Property Transaction Details",
+         "url": "/report/rainmaker-pt/GetLegacyPropertyTransactionDetails/_get",
+         "displayName": "Get Legacy Property Transaction Details",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "PROPERTYREPORTS",
+         "code": "null",
+         "path": "Get Legacy Property Details"
+      },
+      {
+         "id": 3244,
+         "name": "Get Legacy Property Transaction Details",
+         "url": "url",
+         "displayName": "Get Legacy Property Transaction Details",
+         "orderNumber": 2,
+         "queryParams": "",
+         "parentModule": "",
+         "enabled": true,
+         "serviceCode": "",
+         "tenantId": "od",
+         "createdDate": null,
+         "createdBy": null,
+         "lastModifiedDate": null,
+         "lastModifiedBy": null,
+         "path": "Property Tax.PT Reports.Get Legacy Property Transaction Details",
+         "navigationURL": "report/rainmaker-pt/GetLegacyPropertyTransactionDetails",
+         "leftIcon": "action:assignment",
+         "rightIcon": ""
+      },
+      {
+         "id": 3245,
+         "name": "BPA-preapprovedplansearch",
+         "url": "/bpa-services/v1/preapprovedplan/_search",
+         "displayName": "Search",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "BPA",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3246,
+         "name": "BPA-createpreapprovedplan",
+         "url": "/bpa-services/v1/preapprovedplan/_create",
+         "displayName": "Apply",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "BPA",
+         "code": "null",
+         "path": ""
+      },
+      {
+         "id": 3247,
+         "name": "BPA-updatepreapprovedplan",
+         "url": "/bpa-services/v1/preapprovedplan/_update",
+         "displayName": "Apply",
+         "orderNumber": 0,
+         "enabled": false,
+         "serviceCode": "BPA",
+         "code": "null",
+         "path": ""
       }
    ]
 }
