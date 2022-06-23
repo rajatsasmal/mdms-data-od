@@ -594,12 +594,14 @@
             "idname": "mr.mrnnumber",
             "format": "MR/[CITY.CODE]/[SEQ_EG_MR_MRN]"
         },
-		     "format": "BP-SCN-[CITY.CODE]-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
-            "idname": "egov.idgen.bpa.scn"
+	{
+	    "idname": "egov.idgen.bpa.scn",
+	    "format": "BP-SCN-[CITY.CODE]-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]"
+            
         },
-		{
-            "format": "BP-RVK-[CITY.CODE]-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]",
-            "idname": "egov.idgen.bpa.rvk"
+	{   
+            "idname": "egov.idgen.bpa.rvk",
+	   "format": "BP-RVK-[CITY.CODE]-[cy:yyyy-MM-dd]-[SEQ_EG_BP_APN]"
         }
     ]
 }
