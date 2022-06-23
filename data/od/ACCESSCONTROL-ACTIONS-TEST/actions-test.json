@@ -12875,6 +12875,30 @@
          "navigationURL": "tradelicence/managetrade",
          "path": "TradeLicense.Manage Trade",
          "leftIcon": "places:business-center"
-      }
+      },
+	{
+      "id": 3249,
+      "name": "BPA-Create notice",
+      "url": "/bpa-services/v1/notice/_create",
+      "parentModule": "",
+      "displayName": "create scn",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "bpa-services",
+      "code": "null",
+      "path": ""
+   },
+         {
+      "id": 3250,
+      "name": "BPA-Search-scn",
+      "url": "/bpa-services/v1/notice/_search",
+      "parentModule": "",
+      "displayName": "search scn",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "bpa-services",
+      "code": "null",
+      "path": ""
+   }
    ]
 }
