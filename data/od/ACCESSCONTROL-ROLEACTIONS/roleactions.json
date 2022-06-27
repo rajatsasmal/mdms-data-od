@@ -11295,6 +11295,12 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1750,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 1751,
       "actioncode": "",
@@ -22853,6 +22859,24 @@
     {
       "rolecode": "TL_MANAGER",
       "actionid": 1684,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3249,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3250,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+ {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3250,
       "actioncode": "",
       "tenantId": "od"
     }
