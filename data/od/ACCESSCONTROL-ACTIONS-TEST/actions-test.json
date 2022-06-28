@@ -12899,6 +12899,17 @@
       "serviceCode": "bpa-services",
       "code": "null",
       "path": ""
-   }
+   },
+      {
+         "id": 3251,
+         "name": "Fetch Installments for BPA Application",
+         "url": "/bpa-services/v1/bpa/_getAllInstallments",
+         "displayName": "Fetch Installments for BPA Application",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "bpa-services",
+         "code": "null",
+         "path": ""
+      }
    ]
 }
