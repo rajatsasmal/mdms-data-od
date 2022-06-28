@@ -22879,6 +22879,30 @@
       "actionid": 3250,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3251,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 3251,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_TECHNICALPERSON",
+      "actionid": 3251,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "CEMP",
+      "actionid": 3251,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
