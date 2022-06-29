@@ -12910,6 +12910,17 @@
          "serviceCode": "bpa-services",
          "code": "null",
          "path": ""
+      },
+      {
+         "id": 3252,
+         "name": "Generate Demands from Installments for BPA Application",
+         "url": "/bpa-services/v1/bpa/_generateDemandFromInstallments",
+         "displayName": "Generate Demands from Installments for BPA Application",
+         "orderNumber": 0,
+         "enabled": true,
+         "serviceCode": "bpa-services",
+         "code": "null",
+         "path": ""
       }
    ]
 }
