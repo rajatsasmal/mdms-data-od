@@ -12869,7 +12869,7 @@
          "displayName": "Manage Trade",
          "orderNumber": 14,
          "parentModule": "",
-         "enabled": false,
+         "enabled": true,
          "serviceCode": "TradeLicense",
          "code": "null",
          "navigationURL": "tradelicence/managetrade",
