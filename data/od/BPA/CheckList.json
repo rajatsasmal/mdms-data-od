@@ -22,19 +22,19 @@
         },
         {
           "code": "FI.SINS",
-          "required": false
+          "required": true
         },
         {
           "code": "FI.SISS",
-          "required": false
+          "required": true
         },
         {
           "code": "FI.SIES",
-          "required": false
+          "required": true
         },
         {
           "code": "FI.SIWS",
-          "required": false
+          "required": true
         }
       ]
     },
@@ -58,19 +58,19 @@
         },
         {
           "code": "FI.SINS",
-          "required": false
+          "required": true
         },
         {
           "code": "FI.SISS",
-          "required": false
+          "required": true
         },
         {
           "code": "FI.SIES",
-          "required": false
+          "required": true
         },
         {
           "code": "FI.SIWS",
-          "required": false
+          "required": true
         }
       ]
     },
@@ -144,19 +144,19 @@
         },
         {
           "code": "FI.SINS",
-          "required": false
+          "required": true
         },
         {
           "code": "FI.SISS",
-          "required": false
+          "required": true
         },
         {
           "code": "FI.SIES",
-          "required": false
+          "required": true
         },
         {
           "code": "FI.SIWS",
-          "required": false
+          "required": true
         }
       ]
     },
@@ -180,19 +180,19 @@
         },
         {
           "code": "FI.SINS",
-          "required": false
+          "required": true
         },
         {
           "code": "FI.SISS",
-          "required": false
+          "required": true
         },
         {
           "code": "FI.SIES",
-          "required": false
+          "required": true
         },
         {
           "code": "FI.SIWS",
-          "required": false
+          "required": true
         }
       ]
     },
