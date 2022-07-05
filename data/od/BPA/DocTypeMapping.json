@@ -636,7 +636,7 @@
         },
         {
           "code": "APPL.OWNERIDPROOF",
-          "required": false,
+          "required": true,
           "allow": true,
           "order": 1
         },
@@ -934,7 +934,7 @@
         },
         {
           "code": "APPL.OWNERIDPROOF",
-          "required": false,
+          "required": true,
           "allow": true,
           "order": 1
         },
@@ -1402,7 +1402,7 @@
         },
         {
           "code": "APPL.OWNERIDPROOF",
-          "required": false,
+          "required": true,
           "allow": true,
           "order": 1
         },
@@ -1712,7 +1712,7 @@
         },
         {
           "code": "APPL.OWNERIDPROOF",
-          "required": false,
+          "required": true,
           "allow": true,
           "order": 1
         },

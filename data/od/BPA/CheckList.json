@@ -22,19 +22,19 @@
         },
         {
           "code": "FI.SINS",
-          "required": false
+          "required": true
         },
         {
           "code": "FI.SISS",
-          "required": false
+          "required": true
         },
         {
           "code": "FI.SIES",
-          "required": false
+          "required": true
         },
         {
           "code": "FI.SIWS",
-          "required": false
+          "required": true
         }
       ]
     },
@@ -58,25 +58,147 @@
         },
         {
           "code": "FI.SINS",
-          "required": false
+          "required": true
         },
         {
           "code": "FI.SISS",
-          "required": false
+          "required": true
         },
         {
           "code": "FI.SIES",
-          "required": false
+          "required": true
         },
         {
           "code": "FI.SIWS",
-          "required": false
+          "required": true
         }
       ]
     },
     {
       "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
+      "RiskType": "MEDIUM",
+      "WFState": "FIELDINSPECTION_PENDING",
+      "questions": [
+        {
+          "question": "RIVER_EXISTS_ON_SITE",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "TREE_EXISTS_ON_SITE",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "PLAN_AS_PER_THE_SITE",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        },
+        {
+          "question": "ROADWIDTH_AS_PER_THE_PLAN",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        }
+      ],
+      "docTypes": [
+        {
+          "code": "FI.FIR",
+          "required": true
+        },
+        {
+          "code": "FI.SINS",
+          "required": true
+        },
+        {
+          "code": "FI.SISS",
+          "required": true
+        },
+        {
+          "code": "FI.SIES",
+          "required": true
+        },
+        {
+          "code": "FI.SIWS",
+          "required": true
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "ALTERATION",
+      "RiskType": "LOW",
+      "WFState": "FIELDINSPECTION_PENDING",
+      "questions": [
+
+        {
+          "question": "PLAN_AS_PER_THE_SITE",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        }
+      ],
+      "docTypes": [
+        {
+          "code": "FI.FIR",
+          "required": true
+        },
+        {
+          "code": "FI.SINS",
+          "required": true
+        },
+        {
+          "code": "FI.SISS",
+          "required": true
+        },
+        {
+          "code": "FI.SIES",
+          "required": true
+        },
+        {
+          "code": "FI.SIWS",
+          "required": true
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "ALTERATION",
+      "RiskType": "OTHER",
+      "WFState": "FIELDINSPECTION_PENDING",
+      "questions": [
+
+        {
+          "question": "PLAN_AS_PER_THE_SITE",
+          "fieldType": "YES/NO/NA",
+          "active": true
+        }
+      ],
+      "docTypes": [
+        {
+          "code": "FI.FIR",
+          "required": true
+        },
+        {
+          "code": "FI.SINS",
+          "required": true
+        },
+        {
+          "code": "FI.SISS",
+          "required": true
+        },
+        {
+          "code": "FI.SIES",
+          "required": true
+        },
+        {
+          "code": "FI.SIWS",
+          "required": true
+        }
+      ]
+    },
+    {
+      "applicationType": "BUILDING_PLAN_SCRUTINY",
+      "ServiceType": "ALTERATION",
       "RiskType": "MEDIUM",
       "WFState": "FIELDINSPECTION_PENDING",
       "questions": [

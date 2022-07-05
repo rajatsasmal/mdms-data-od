@@ -11295,6 +11295,12 @@
       "tenantId": "od"
     },
     {
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 1750,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
       "rolecode": "SUPERUSER",
       "actionid": 1751,
       "actioncode": "",
@@ -22703,6 +22709,222 @@
     {
       "rolecode": "PREAPPROVED_PLAN_ADMIN",
       "actionid": 3241,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 3242,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 3242,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 3242,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 3242,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 3243,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 3243,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 3243,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 3243,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_DOC_VERIFIER",
+      "actionid": 3244,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_FIELD_INSPECTOR",
+      "actionid": 3244,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_APPROVER",
+      "actionid": 3244,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PT_CEMP",
+      "actionid": 3244,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_VERIFIER",
+      "actionid": 3245,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PREAPPROVED_PLAN_ADMIN",
+      "actionid": 3245,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_VERIFIER",
+      "actionid": 3246,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PREAPPROVED_PLAN_ADMIN",
+      "actionid": 3246,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_VERIFIER",
+      "actionid": 3247,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PREAPPROVED_PLAN_ADMIN",
+      "actionid": 3247,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3245,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 3245,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_TECHNICALPERSON",
+      "actionid": 3245,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "TL_MANAGER",
+      "actionid": 3248,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "TL_MANAGER",
+      "actionid": 1682,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "TL_MANAGER",
+      "actionid": 1683,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "TL_MANAGER",
+      "actionid": 1684,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3249,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3250,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+ {
+      "rolecode": "EMPLOYEE",
+      "actionid": 3250,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3251,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 3251,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_TECHNICALPERSON",
+      "actionid": 3251,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "CEMP",
+      "actionid": 3251,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 3252,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 3252,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_TECHNICALPERSON",
+      "actionid": 3252,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "CEMP",
+      "actionid": 3252,
       "actioncode": "",
       "tenantId": "od"
     }

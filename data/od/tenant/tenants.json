@@ -28,7 +28,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "CTC",
-        "ddrName": "DDR A",
+        "ddrName": "Cuttack",
         "wsBillHeaderLine1": "WATCO,OFFICE OF THE  GENERAL MANAGER",
         "wsBillHeaderLine2": "WATCO DIVISION : CUTTACK",
         "districtTenantCode": "od.cuttack"
@@ -64,7 +64,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "JTN",
-        "ddrName": "DDR B",
+        "ddrName": "Khordha",
         "wsBillHeaderLine1": "WATCO,OFFICE OF THE DEPUTY HEAD COMMERCIAL",
         "wsBillHeaderLine2": "COMMERCIAL WING, SATYA NAGAR, BBSR-751007",
         "districtTenantCode": "od.jatni"
@@ -100,7 +100,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "ANG",
-        "ddrName": "DDR A",
+        "ddrName": "Angul",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Angul",
         "districtTenantCode": "od.angul"
@@ -136,7 +136,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "CDR",
-        "ddrName": "DDR A",
+        "ddrName": "Cuttack",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Choudwar",
         "districtTenantCode": "od.choudwar"
@@ -172,7 +172,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BED",
-        "ddrName": "DDR A",
+        "ddrName": "Ganjam",
         "districtTenantCode": "od.berhampurdevelopmentauthority"
       },
       "address": "Berhampur Development Authority",
@@ -206,7 +206,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BRM",
-        "ddrName": "DDR A",
+        "ddrName": "Sundargarh",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Birmitrapur",
         "districtTenantCode": "od.birmitrapur"
@@ -282,7 +282,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "CHH",
-        "ddrName": "DDR A",
+        "ddrName": "Ganjam",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Chatrapur",
         "districtTenantCode": "od.chatrapur"
@@ -318,7 +318,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "CDA",
-        "ddrName": "DDR A",
+        "ddrName": "Cuttack",
         "districtTenantCode": "od.cuttackdevelopmentauthority"
       },
       "address": "Cuttack Development Authority",
@@ -352,7 +352,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "GPP",
-        "ddrName": "DDR A",
+        "ddrName": "Ganjam",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Gopalpur",
         "districtTenantCode": "od.gopalpur"
@@ -388,7 +388,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KDA",
-        "ddrName": "DDR A",
+        "ddrName": "Jajpur",
         "districtTenantCode": "od.kalinganagardevelopmentauthority"
       },
       "address": "Kalinga Nagar Development Authority",
@@ -422,7 +422,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KHU",
-        "ddrName": "DDR A",
+        "ddrName": "Khordha",
         "wsBillHeaderLine1": "WATCO,OFFICE OF THE MANAGER",
         "wsBillHeaderLine2": "WATCO SUBDIVISION, KHORDHA",
         "districtTenantCode": "od.khordha"
@@ -458,7 +458,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KON",
-        "ddrName": "DDR A",
+        "ddrName": "Puri",
         "wsBillHeaderLine1": "WATCO,OFFICE OF THE  MANAGER",
         "wsBillHeaderLine2": "WATCO SUB-DIVISION : NIMAPARA (KONARK)",
         "districtTenantCode": "od.konark"
@@ -494,7 +494,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "PDP",
-        "ddrName": "DDR A",
+        "ddrName": "Jagatsinghpur",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Paradeep",
         "districtTenantCode": "od.paradeep"
@@ -530,7 +530,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "PDA",
-        "ddrName": "DDR A",
+        "ddrName": "Jagatsinghpur",
         "districtTenantCode": "od.paradipdevelopmentauthority"
       },
       "address": "Paradip Development Authority",
@@ -564,7 +564,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "PRI",
-        "ddrName": "DDR A",
+        "ddrName": "Puri",
         "wsBillHeaderLine1": "WATCO,OFFICE OF THE GENERAL MANAGER",
         "wsBillHeaderLine2": "WATCO DIVISION : PURI",
         "districtTenantCode": "od.puri"
@@ -600,7 +600,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "PKD",
-        "ddrName": "DDR A",
+        "ddrName": "Puri",
         "districtTenantCode": "od.purikonarkdevelopmentauthority"
       },
       "address": "Puri Konark Development Authority",
@@ -634,7 +634,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "RJG",
-        "ddrName": "DDR A",
+        "ddrName": "Sundargarh",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Rajgangpur",
         "districtTenantCode": "od.rajgangpur"
@@ -670,7 +670,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "RRK",
-        "ddrName": "DDR A",
+        "ddrName": "Sundargarh",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Rourkela",
         "districtTenantCode": "od.rourkela"
@@ -706,7 +706,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "RDA",
-        "ddrName": "DDR A",
+        "ddrName": "Sundargarh",
         "districtTenantCode": "od.rourkeladevelopmentauthority"
       },
       "address": "Rourkela Development Authority",
@@ -740,7 +740,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "SMB",
-        "ddrName": "DDR A",
+        "ddrName": "Sambalpur",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Sambalpur",
         "districtTenantCode": "od.sambalpur"
@@ -776,7 +776,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "SDA",
-        "ddrName": "DDR A",
+        "ddrName": "Sambalpur",
         "districtTenantCode": "od.sambalpurdevelopmentauthority"
       },
       "address": "Sambalpur Development Authority",
@@ -810,7 +810,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "SNG",
-        "ddrName": "DDR A",
+        "ddrName": "Sundargarh",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Sundargarh",
         "districtTenantCode": "od.sundargarh"
@@ -846,7 +846,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "TLC",
-        "ddrName": "DDR A",
+        "ddrName": "Angul",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Talcher",
         "districtTenantCode": "od.talcher"
@@ -882,7 +882,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "TAM",
-        "ddrName": "DDR A",
+        "ddrName": "Angul",
         "districtTenantCode": "od.talcherangulmeramandalidevelopmentauthority"
       },
       "address": "Talcher Angul Meramandali Development Authority",
@@ -916,7 +916,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "ODISHA",
-        "ddrName": "DDR A",
+        "ddrName": "Odisha",
         "districtTenantCode": "od"
       },
       "address": "Odisha",
@@ -950,7 +950,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "VSN",
-        "ddrName": "DDR A",
+        "ddrName": "Jajpur",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Vyasanagar",
         "districtTenantCode": "od.vyasanagar"
@@ -1105,7 +1105,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "AND",
-        "ddrName": "DDR A",
+        "ddrName": "Keonjhar",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Anandpur",
         "districtTenantCode": "od.anandapur"
@@ -1140,7 +1140,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "ASK",
-        "ddrName": "DDR A",
+        "ddrName": "Ganjam",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Aska",
         "districtTenantCode": "od.aska"
@@ -1175,7 +1175,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "ATH",
-        "ddrName": "DDR A",
+        "ddrName": "Cuttack",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Athagarh",
         "districtTenantCode": "od.athagarh"
@@ -1210,7 +1210,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "ATM",
-        "ddrName": "DDR A",
+        "ddrName": "Angul",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Athmallik",
         "districtTenantCode": "od.athmallik"
@@ -1245,7 +1245,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "ATB",
-        "ddrName": "DDR A",
+        "ddrName": "Bargarh",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Attabira",
         "districtTenantCode": "od.attabira"
@@ -1280,7 +1280,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BLR",
-        "ddrName": "DDR A",
+        "ddrName": "Balangir",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Balangir",
         "districtTenantCode": "od.balangir"
@@ -1315,7 +1315,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BLM",
-        "ddrName": "DDR A",
+        "ddrName": "Malkangiri",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Balimela",
         "districtTenantCode": "od.balimela"
@@ -1350,7 +1350,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BLD",
-        "ddrName": "DDR A",
+        "ddrName": "Kandhamal",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Balliguda",
         "districtTenantCode": "od.balliguda"
@@ -1385,7 +1385,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BLG",
-        "ddrName": "DDR A",
+        "ddrName": "Khordha",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Balugaon",
         "districtTenantCode": "od.balugaon"
@@ -1420,7 +1420,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BAN",
-        "ddrName": "DDR A",
+        "ddrName": "Cuttack",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Banki",
         "districtTenantCode": "od.banki"
@@ -1455,7 +1455,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BNP",
-        "ddrName": "DDR A",
+        "ddrName": "Khordha",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Banpur",
         "districtTenantCode": "od.banpur"
@@ -1490,7 +1490,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BRG",
-        "ddrName": "DDR A",
+        "ddrName": "Bargarh",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Bargarh",
         "districtTenantCode": "od.bargarh"
@@ -1525,7 +1525,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BBL",
-        "ddrName": "DDR A",
+        "ddrName": "Keonjhar",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Barbil",
         "districtTenantCode": "od.barbil"
@@ -1560,7 +1560,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BRP",
-        "ddrName": "DDR A",
+        "ddrName": "Mayurbhanj",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Baripada",
         "districtTenantCode": "od.baripada"
@@ -1595,7 +1595,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BPL",
-        "ddrName": "DDR A",
+        "ddrName": "Bargarh",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Barpali",
         "districtTenantCode": "od.barpali"
@@ -1630,7 +1630,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BSP",
-        "ddrName": "DDR A",
+        "ddrName": "Bhadrak",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Basudevpur",
         "districtTenantCode": "od.basudevpur"
@@ -1665,7 +1665,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BLT",
-        "ddrName": "DDR A",
+        "ddrName": "Ganjam",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Bellaguntha",
         "districtTenantCode": "od.bellaguntha"
@@ -1700,7 +1700,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BLP",
-        "ddrName": "DDR A",
+        "ddrName": "Jharsuguda",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Belpahar",
         "districtTenantCode": "od.belpahar"
@@ -1735,7 +1735,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BDK",
-        "ddrName": "DDR A",
+        "ddrName": "Bhadrak",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Bhadrak",
         "districtTenantCode": "od.bhadrak"
@@ -1770,7 +1770,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BJN",
-        "ddrName": "DDR A",
+        "ddrName": "Ganjam",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Bhanjanagar",
         "districtTenantCode": "od.bhanjanagar"
@@ -1805,7 +1805,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BWP",
-        "ddrName": "DDR A",
+        "ddrName": "Kalahandi",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Bhawanipatna",
         "districtTenantCode": "od.bhawanipatna"
@@ -1840,7 +1840,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BBN",
-        "ddrName": "DDR A",
+        "ddrName": "Dhenkanal",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Bhuban",
         "districtTenantCode": "od.bhuban"
@@ -1875,7 +1875,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BMC",
-        "ddrName": "DDR A",
+        "ddrName": "Khordha",
         "wsBillHeaderLine1": "WATCO,OFFICE OF THE DEPUTY HEAD COMMERCIAL",
         "wsBillHeaderLine2": "COMMERCIAL WING, SATYA NAGAR, BBSR-751007",
         "districtTenantCode": "od.bhubaneswar"
@@ -1910,7 +1910,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BDA",
-        "ddrName": "DDR A",
+        "ddrName": "Khordha",
         "districtTenantCode": "od.bhubaneswardevelopmentauthority"
       },
       "address": "Bhubaneswar Development Authority",
@@ -1943,7 +1943,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BJP",
-        "ddrName": "DDR A",
+        "ddrName": "Bargarh",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Bijepur",
         "districtTenantCode": "od.bijepur"
@@ -1978,7 +1978,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BNK",
-        "ddrName": "DDR A",
+        "ddrName": "Subarnapur",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Binka",
         "districtTenantCode": "od.binka"
@@ -2013,7 +2013,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BDG",
-        "ddrName": "DDR A",
+        "ddrName": "Boudh",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Boudhgarh",
         "districtTenantCode": "od.boudhgarh"
@@ -2048,7 +2048,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BJR",
-        "ddrName": "DDR A",
+        "ddrName": "Jharsuguda",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Brajrajnagar",
         "districtTenantCode": "od.brajrajnagar"
@@ -2083,7 +2083,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "BGD",
-        "ddrName": "DDR A",
+        "ddrName": "Ganjam",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Buguda",
         "districtTenantCode": "od.buguda"
@@ -2118,7 +2118,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "CMP",
-        "ddrName": "DDR A",
+        "ddrName": "Keonjhar",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Champua",
         "districtTenantCode": "od.champua"
@@ -2153,7 +2153,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "CNB",
-        "ddrName": "DDR A",
+        "ddrName": "Bhadrak",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Chandbali",
         "districtTenantCode": "od.chandbali"
@@ -2188,7 +2188,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "CKT",
-        "ddrName": "DDR A",
+        "ddrName": "Ganjam",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Chikiti",
         "districtTenantCode": "od.chikiti"
@@ -2223,7 +2223,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "DSP",
-        "ddrName": "DDR A",
+        "ddrName": "Nayagarh",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Daspalla",
         "districtTenantCode": "od.daspalla"
@@ -2258,7 +2258,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "DBG",
-        "ddrName": "DDR A",
+        "ddrName": "Deogarh",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Deogarh",
         "districtTenantCode": "od.deogarh"
@@ -2293,7 +2293,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "DMN",
-        "ddrName": "DDR A",
+        "ddrName": "Bhadrak",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Dhamnagar",
         "districtTenantCode": "od.dhamnagar"
@@ -2328,7 +2328,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "DMG",
-        "ddrName": "DDR A",
+        "ddrName": "Kalahandi",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Dharamgarh",
         "districtTenantCode": "od.dharamgarh"
@@ -2363,7 +2363,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "DGP",
-        "ddrName": "DDR A",
+        "ddrName": "Ganjam",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Digapahandi",
         "districtTenantCode": "od.digapahandi"
@@ -2398,7 +2398,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "GUG",
-        "ddrName": "DDR A",
+        "ddrName": "Kandhamal",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : G. Udayagiri",
         "districtTenantCode": "od.gudayagiri"
@@ -2433,7 +2433,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "GJM",
-        "ddrName": "DDR A",
+        "ddrName": "Ganjam",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Ganjam",
         "districtTenantCode": "od.ganjam"
@@ -2468,7 +2468,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "GDR",
-        "ddrName": "DDR A",
+        "ddrName": "Rayagada",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Gudari",
         "districtTenantCode": "od.gudari"
@@ -2503,7 +2503,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "GNP",
-        "ddrName": "DDR A",
+        "ddrName": "Rayagada",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Gunupur",
         "districtTenantCode": "od.gunupur"
@@ -2538,7 +2538,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "HND",
-        "ddrName": "DDR A",
+        "ddrName": "Dhenkanal",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Hindol",
         "districtTenantCode": "od.hindol"
@@ -2573,7 +2573,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "HNL",
-        "ddrName": "DDR A",
+        "ddrName": "Ganjam",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Hinjilicut",
         "districtTenantCode": "od.hinjilicut"
@@ -2608,7 +2608,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "JGT",
-        "ddrName": "DDR A",
+        "ddrName": "Jagatsinghpur",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Jagatsinghpur",
         "districtTenantCode": "od.jagatsinghpur"
@@ -2643,7 +2643,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "JJP",
-        "ddrName": "DDR A",
+        "ddrName": "Jajpur",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Jajpur",
         "districtTenantCode": "od.jajpur"
@@ -2678,7 +2678,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "JLS",
-        "ddrName": "DDR A",
+        "ddrName": "Balasore",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Jaleswar",
         "districtTenantCode": "od.jaleswar"
@@ -2713,7 +2713,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "JPR",
-        "ddrName": "DDR A",
+        "ddrName": "Koraput",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Jeypore",
         "districtTenantCode": "od.jeypore"
@@ -2748,7 +2748,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "JRS",
-        "ddrName": "DDR A",
+        "ddrName": "Jharsuguda",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Jharsuguda",
         "districtTenantCode": "od.jharsuguda"
@@ -2783,7 +2783,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "JOD",
-        "ddrName": "DDR A",
+        "ddrName": "Keonjhar",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Joda",
         "districtTenantCode": "od.joda"
@@ -2818,7 +2818,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "JNG",
-        "ddrName": "DDR A",
+        "ddrName": "Kalahandi",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Junagarh",
         "districtTenantCode": "od.junagarh"
@@ -2853,7 +2853,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KMN",
-        "ddrName": "DDR A",
+        "ddrName": "Dhenkanal",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Kamakhyanagar",
         "districtTenantCode": "od.kamakhyanagar"
@@ -2888,7 +2888,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KNB",
-        "ddrName": "DDR A",
+        "ddrName": "Balangir",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Kantabanji",
         "districtTenantCode": "od.kantabanji"
@@ -2923,7 +2923,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KRN",
-        "ddrName": "DDR A",
+        "ddrName": "Mayurbhanj",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Karanjia",
         "districtTenantCode": "od.karanjia"
@@ -2958,7 +2958,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KSN",
-        "ddrName": "DDR A",
+        "ddrName": "Gajapati",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Kashinagar",
         "districtTenantCode": "od.kashinagar"
@@ -2993,7 +2993,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KBS",
-        "ddrName": "DDR A",
+        "ddrName": "Ganjam",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Kabisuryanagar",
         "districtTenantCode": "od.kabisuryanagar"
@@ -3028,7 +3028,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KND",
-        "ddrName": "DDR A",
+        "ddrName": "Kendrapara",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Kendrapara",
         "districtTenantCode": "od.kendrapara"
@@ -3063,7 +3063,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KNJ",
-        "ddrName": "DDR A",
+        "ddrName": "Keonjhar",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Keonjhargarh",
         "districtTenantCode": "od.keonjhargarh"
@@ -3098,7 +3098,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KSG",
-        "ddrName": "DDR A",
+        "ddrName": "Kalahandi",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Kesinga",
         "districtTenantCode": "od.kesinga"
@@ -3125,7 +3125,7 @@
         "name": "Khallikote",
         "localName": null,
         "districtCode": "Ganjam",
-        "districtName": "Ganjam",
+        "districtName": "c",
         "regionName": "Bhanjanagar",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
@@ -3133,7 +3133,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KHL",
-        "ddrName": "DDR A",
+        "ddrName": "Kalahandi",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Khallikote",
         "districtTenantCode": "od.khallikote"
@@ -3160,15 +3160,15 @@
         "name": "Khandapada",
         "localName": null,
         "districtCode": "Nayagarh",
-        "districtName": "Nayagarh",
+        "districtName": "c",
         "regionName": "Bhubaneswar",
         "ulbGrade": "NAC",
         "longitude": 75.5761829,
         "latitude": 31.3260152,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "KHN",
-        "ddrName": "DDR A",
+        "code": "NGR",
+        "ddrName": "Nayagarh",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Khandapada",
         "districtTenantCode": "od.khandapada"
@@ -3203,7 +3203,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KHR",
-        "ddrName": "DDR A",
+        "ddrName": "Nuapada",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Khariar",
         "districtTenantCode": "od.khariar"
@@ -3238,7 +3238,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KRR",
-        "ddrName": "DDR A",
+        "ddrName": "Nuapada",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Khariar Road",
         "districtTenantCode": "od.khariarroad"
@@ -3273,7 +3273,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KDL",
-        "ddrName": "DDR A",
+        "ddrName": "Ganjam",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Kodala",
         "districtTenantCode": "od.kodala"
@@ -3308,7 +3308,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KOR",
-        "ddrName": "DDR A",
+        "ddrName": "Koraput",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Koraput",
         "districtTenantCode": "od.koraput"
@@ -3343,7 +3343,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KOT",
-        "ddrName": "DDR A",
+        "ddrName": "Koraput",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Kotpad",
         "districtTenantCode": "od.kotpad"
@@ -3378,7 +3378,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "KCN",
-        "ddrName": "DDR A",
+        "ddrName": "Sambalpur",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Kuchinda",
         "districtTenantCode": "od.kuchinda"
@@ -3413,7 +3413,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "MLN",
-        "ddrName": "DDR A",
+        "ddrName": "Malkangiri",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Malkangiri",
         "districtTenantCode": "od.malkangiri"
@@ -3448,7 +3448,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "NGR",
-        "ddrName": "DDR A",
+        "ddrName": "Nayagarh",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Nayagarh",
         "districtTenantCode": "od.nayagarh"
@@ -3483,7 +3483,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "NLG",
-        "ddrName": "DDR A",
+        "ddrName": "Balasore",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Nilgiri",
         "districtTenantCode": "od.nilgiri"
@@ -3518,7 +3518,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "NIM",
-        "ddrName": "DDR A",
+        "ddrName": "Puri",
         "wsBillHeaderLine1": "WATCO,OFFICE OF THE  MANAGER",
         "wsBillHeaderLine2": "WATCO SUB-DIVISION : NIMAPARA",
         "districtTenantCode": "od.nimapara"
@@ -3553,7 +3553,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "NBR",
-        "ddrName": "DDR A",
+        "ddrName": "Nabarangpur",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Nabarangpur",
         "districtTenantCode": "od.nabarangpur"
@@ -3588,7 +3588,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "NPD",
-        "ddrName": "DDR A",
+        "ddrName": "Nuapada",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Nuapada",
         "districtTenantCode": "od.nuapada"
@@ -3623,7 +3623,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "ODG",
-        "ddrName": "DDR A",
+        "ddrName": "Nayagarh",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Odagaon",
         "districtTenantCode": "od.odagaon"
@@ -3658,7 +3658,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "PDM",
-        "ddrName": "DDR A",
+        "ddrName": "Bargarh",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Padampur",
         "districtTenantCode": "od.padampur"
@@ -3693,7 +3693,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "PRL",
-        "ddrName": "DDR A",
+        "ddrName": "Gajapati",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Paralakhemundi",
         "districtTenantCode": "od.paralakhemundi"
@@ -3728,7 +3728,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "PTN",
-        "ddrName": "DDR A",
+        "ddrName": "Balangir",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Patnagarh",
         "districtTenantCode": "od.patnagarh"
@@ -3763,7 +3763,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "PTM",
-        "ddrName": "DDR A",
+        "ddrName": "Kendrapara",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Pattamundai",
         "districtTenantCode": "od.pattamundai"
@@ -3798,7 +3798,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "PLB",
-        "ddrName": "DDR A",
+        "ddrName": "Kandhamal",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Phulbani",
         "districtTenantCode": "od.phulbani"
@@ -3833,7 +3833,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "PPL",
-        "ddrName": "DDR A",
+        "ddrName": "Puri",
         "wsBillHeaderLine1": "WATCO,OFFICE OF THE  MANAGER",
         "wsBillHeaderLine2": "WATCO SUB-DIVISION : NIMAPARA (PIPILI)",
         "districtTenantCode": "od.pipli"
@@ -3868,7 +3868,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "PLS",
-        "ddrName": "DDR A",
+        "ddrName": "Ganjam",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Polasara",
         "districtTenantCode": "od.polasara"
@@ -3903,7 +3903,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "PRS",
-        "ddrName": "DDR A",
+        "ddrName": "Ganjam",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Purushottampur",
         "districtTenantCode": "od.purushottampur"
@@ -3938,7 +3938,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "RRG",
-        "ddrName": "DDR A",
+        "ddrName": "Mayurbhanj",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Rairangpur",
         "districtTenantCode": "od.rairangpur"
@@ -3973,7 +3973,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "RMB",
-        "ddrName": "DDR A",
+        "ddrName": "Ganjam",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Rambha",
         "districtTenantCode": "od.rambha"
@@ -4008,7 +4008,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "RNP",
-        "ddrName": "DDR A",
+        "ddrName": "Nayagarh",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Ranpur",
         "districtTenantCode": "od.ranpur"
@@ -4043,7 +4043,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "RYG",
-        "ddrName": "DDR A",
+        "ddrName": "Rayagada",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Rayagada",
         "districtTenantCode": "od.rayagada"
@@ -4078,7 +4078,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "RDK",
-        "ddrName": "DDR A",
+        "ddrName": "Sambalpur",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Redhakhol",
         "districtTenantCode": "od.redhakhol"
@@ -4113,7 +4113,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "SBR",
-        "ddrName": "DDR A",
+        "ddrName": "Subarnapur",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Sonepur",
         "districtTenantCode": "od.sonepur"
@@ -4148,7 +4148,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "SOR",
-        "ddrName": "DDR A",
+        "ddrName": "Balasore",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Soro",
         "districtTenantCode": "od.soro"
@@ -4183,7 +4183,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "SRD",
-        "ddrName": "DDR A",
+        "ddrName": "Ganjam",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Surada",
         "districtTenantCode": "od.surada"
@@ -4218,7 +4218,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "SNB",
-        "ddrName": "DDR A",
+        "ddrName": "Koraput",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Sunabeda",
         "districtTenantCode": "od.sunabeda"
@@ -4253,7 +4253,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "TRB",
-        "ddrName": "DDR A",
+        "ddrName": "Subarnapur",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Tarbha",
         "districtTenantCode": "od.tarbha"
@@ -4288,7 +4288,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "TTG",
-        "ddrName": "DDR A",
+        "ddrName": "Balangir",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Titilagarh",
         "districtTenantCode": "od.titilagarh"
@@ -4323,7 +4323,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "TSR",
-        "ddrName": "DDR A",
+        "ddrName": "Balangir",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Tusura",
         "districtTenantCode": "od.tusura"
@@ -4358,7 +4358,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "UDL",
-        "ddrName": "DDR A",
+        "ddrName": "Mayurbhanj",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Udala",
         "districtTenantCode": "od.udala"
@@ -4393,7 +4393,7 @@
         "shapeFileLocation": null,
         "captcha": null,
         "code": "UMC",
-        "ddrName": "DDR A",
+        "ddrName": "Nabarangpur",
         "wsBillHeaderLine1": "OFFICE OF THE AE/JE",
         "wsBillHeaderLine2": "PUBLIC HEALTH ENGINEERING ORGANIZATION : Umerkote",
         "districtTenantCode": "od.umerkote"
