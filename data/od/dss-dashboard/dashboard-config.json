@@ -7,7 +7,7 @@
     {"propertytax":{"services_name":"Property Tax","filterKey":"PT"}},
     {"tradelicense":{"services_name":"Trade licence","filterKey":"TL"}},
     {"pgr":{"services_name":"PGR","filterKey":"PGR"}},
-    {"ws":{"services_name":"W&S","filterKey":"W&S"}},
+    {"ws":{"services_name":"WS","filterKey":"WS"}},
     {
                   "OBPS": {
                     "services_name": "OBPS",
@@ -20,7 +20,7 @@
                     }
                   }    
     ],
-    "SERVICES": ["Property Tax","W&S","FSM",
+    "SERVICES": ["Property Tax","WS","FSM",
             "OBPS",
              "Trade licence",
             "PGR"],
