@@ -12921,6 +12921,18 @@
          "serviceCode": "bpa-services",
          "code": "null",
          "path": ""
-      }
+      },
+	   {
+      "id": 3253,
+      "name": "BPA-Search-MyApplication",
+      "url": "/bpa-services/v1/bpa/__myApplication",
+      "parentModule": "",
+      "displayName": "search application",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "bpa-services",
+      "code": "null",
+      "path": ""
+   }
    ]
 }
