@@ -12925,7 +12925,7 @@
 	   {
       "id": 3253,
       "name": "BPA-Search-MyApplication",
-      "url": "/bpa-services/v1/bpa/__myApplication",
+      "url": "/bpa-services/v1/bpa/_myApplication",
       "parentModule": "",
       "displayName": "search application",
       "orderNumber": 0,
