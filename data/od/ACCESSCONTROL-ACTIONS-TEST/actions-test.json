@@ -12922,10 +12922,22 @@
          "code": "null",
          "path": ""
       },
-	   {
+	 {
       "id": 3253,
       "name": "BPA-Search-MyApplication",
       "url": "/bpa-services/v1/bpa/_myApplication",
+      "parentModule": "",
+      "displayName": "search application",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "bpa-services",
+      "code": "null",
+      "path": ""
+   },
+   {
+      "id": 3254,
+      "name": "BPA-Search-MyApplication",
+      "url": "/bpa-services/v1/bpa/_ApprovedByMe",
       "parentModule": "",
       "displayName": "search application",
       "orderNumber": 0,
