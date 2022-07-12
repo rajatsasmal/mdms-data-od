@@ -438,13 +438,6 @@
       "uniqueKeys": [
         "$.code"
       ]
-    },
-    "Installments": {
-      "masterName": "Installments",
-      "isStateLevel": true,
-      "uniqueKeys": [
-        "$.code"
-      ]
     }
   },
   "inventory": {
