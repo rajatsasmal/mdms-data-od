@@ -22839,25 +22839,25 @@
       "tenantId": "od"
     },
     {
-      "rolecode": "TL_MANAGER",
+      "rolecode": "TL_ADMIN",
       "actionid": 3248,
       "actioncode": "",
       "tenantId": "od"
     },
     {
-      "rolecode": "TL_MANAGER",
+      "rolecode": "TL_ADMIN",
       "actionid": 1682,
       "actioncode": "",
       "tenantId": "od"
     },
     {
-      "rolecode": "TL_MANAGER",
+      "rolecode": "TL_ADMIN",
       "actionid": 1683,
       "actioncode": "",
       "tenantId": "od"
     },
     {
-      "rolecode": "TL_MANAGER",
+      "rolecode": "TL_ADMIN",
       "actionid": 1684,
       "actioncode": "",
       "tenantId": "od"
