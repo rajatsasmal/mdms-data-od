@@ -12945,6 +12945,17 @@
       "serviceCode": "bpa-services",
       "code": "null",
       "path": ""
+   },
+   {
+      "id": 3255,
+      "name": "Jalsathi incentive report",
+      "url": "/report-services/reports/incentive",
+      "displayName": "Jalsathi incentive report",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "report-services",
+      "code": "null",
+      "path": ""
    }
 	 ]
 }
