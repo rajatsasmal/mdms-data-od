@@ -12956,6 +12956,34 @@
       "serviceCode": "report-services",
       "code": "null",
       "path": ""
+   },
+   {
+      "id": 3256,
+      "name": "JalsathiIncentiveReport",
+      "url": "url",
+      "displayName": "Jalsathi Incentive Report",
+      "orderNumber": 14,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report-services",
+      "code": "null",
+      "navigationURL": "pt-common-screens/jalsathiIncentive",
+      "path": "Property Tax.PT Reports.Jalsathi Incentive Report",
+      "leftIcon": "places:business-center"
+   },
+   {
+      "id": 3257,
+      "name": "JalsathiIncentiveReport",
+      "url": "url",
+      "displayName": "Jalsathi Incentive Report",
+      "orderNumber": 14,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report-services",
+      "code": "null",
+      "navigationURL": "pt-common-screens/jalsathiIncentive",
+      "path": "Water & Sewerage.W&S Reports.Jalsathi Incentive Report",
+      "leftIcon": "places:business-center"
    }
 	 ]
 }
