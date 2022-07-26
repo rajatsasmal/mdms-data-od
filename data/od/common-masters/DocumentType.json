@@ -15,6 +15,10 @@
       "active": true
     },
     {
+      "code": "APPL.IDENTITYPROOF.OTHER",
+      "active": true
+    },
+    {
       "code": "APPL.OWNERIDPROOF.AADHAAR",
       "active": false
     },
@@ -24,6 +28,10 @@
     },
     {
       "code": "APPL.OWNERIDPROOF.DRIVINGLICENSE",
+      "active": true
+    },
+    {
+      "code": "APPL.OWNERIDPROOF.OTHER",
       "active": true
     },	
     {
