@@ -1,4 +1,7 @@
-[ {
+{
+  "tenantId": "od.keonjhargarh",
+  "moduleName": "TradeLicense",
+  "TemporaryTradeType": [ {
   "code" : "EATINGESTABLISHMENTS.TST22",
   "name" : "Fruit Juice/Lassi Center",
   "uom" : "NUMBEROFDAYS",
