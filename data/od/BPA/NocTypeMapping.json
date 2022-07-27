@@ -8,16 +8,7 @@
       "riskType": "ALL",
       "nocTriggerState": "DOC_VERIFICATION_INPROGRESS",
       "nocTypes": [
-        {
-          "type": "NMA_NOC",
-          "required": true,
-          "documentType": "NOC.NMA"
-        },
-        {
-          "type": "FIRE_NOC",
-          "required": true,
-          "documentType": "NOC.FIRE"
-        }
+        
       ]
     },
     {
@@ -26,16 +17,7 @@
       "riskType": "LOW",
       "nocTriggerState": "DOC_VERIFICATION_INPROGRESS",
       "nocTypes": [
-        {
-          "type": "NMA_NOC",
-          "required": true,
-          "documentType": "NOC.NMA"
-        },
-        {
-          "type": "FIRE_NOC",
-          "required": true,
-          "documentType": "NOC.FIRE"
-        }
+        
       ]
     },
     {
