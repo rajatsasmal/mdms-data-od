@@ -1,4 +1,7 @@
-[ {
+{
+  "tenantId": "od.jeypore",
+  "moduleName": "TradeLicense",
+  "TemporaryTradeType":[ {
   "code" : "LIVESTOCKANDRELATEDPRODUCTS.TST28",
   "name" : "Animal/Cattle feed shop",
   "uom" : "NUMBEROFDAYS",
@@ -95,3 +98,4 @@
   "type" : "TL",
   "validityPeriod" : null
 } ]
+}
