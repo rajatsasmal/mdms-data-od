@@ -12984,6 +12984,39 @@
       "navigationURL": "pt-common-screens/jalsathiIncentive",
       "path": "Water & Sewerage.W&S Reports.Jalsathi Incentive Report",
       "leftIcon": "places:business-center"
+   },
+   {
+      "id": 3258,
+      "name": "BPA-revisionsearch",
+      "url": "/bpa-services/v1/revision/_search",
+      "displayName": "Search",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "BPA",
+      "code": "null",
+      "path": ""
+   },
+   {
+      "id": 3259,
+      "name": "BPA-createrevision",
+      "url": "/bpa-services/v1/revision/_create",
+      "displayName": "Apply",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "BPA",
+      "code": "null",
+      "path": ""
+   },
+   {
+      "id": 3260,
+      "name": "BPA-updaterevision",
+      "url": "/bpa-services/v1/revision/_update",
+      "displayName": "Apply",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "BPA",
+      "code": "null",
+      "path": ""
    }
 	 ]
 }
