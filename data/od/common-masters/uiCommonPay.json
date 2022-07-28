@@ -53,8 +53,8 @@
       "buttons": [
         {
           "label": "COMMON_BUTTON_HOME",
-          "citizenUrl": "/marriageregistration-citizen/home",
-          "employeeUrl": "/marriageregistration/search"
+          "citizenUrl": "/mr-citizen/home",
+          "employeeUrl": "/mr/search"
         }
       ]
     },
