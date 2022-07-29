@@ -10801,7 +10801,7 @@
          "displayName": "Marriage Registration Legacy Data Report",
          "orderNumber": 1,
          "parentModule": "rainmaker-mr",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "MR",
          "code": "null",
          "path": "Marriage Registration.Marriage Registration Reports.LegacyMRDataReport",
@@ -10828,7 +10828,7 @@
          "displayName": "rainmaker-mr-LegacyMRDataReport",
          "orderNumber": 1,
          "parentModule": "",
-         "enabled": true,
+         "enabled": false,
          "serviceCode": "report",
          "code": "null",
          "path": ""
