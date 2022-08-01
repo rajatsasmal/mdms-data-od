@@ -13017,6 +13017,17 @@
       "serviceCode": "BPA",
       "code": "null",
       "path": ""
+   },
+   {
+      "id": 3261,
+      "name": "Employee Date Wise WS Collection",
+      "url": "/report-services/reports/ws/employeeDateWiseWSCollection",
+      "displayName": "Employee Date Wise WS Collection",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "report-services",
+      "code": "null",
+      "path": ""
    }
 	 ]
 }
