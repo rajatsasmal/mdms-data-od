@@ -13028,6 +13028,17 @@
       "serviceCode": "report-services",
       "code": "null",
       "path": ""
+   },
+   {
+      "id": 3262,
+      "name": "Search Legacy Property registry",
+      "url": "/property-services/property/_searchLegacy",
+      "displayName": "Search Legacy Property Registry",
+      "orderNumber": 3,
+      "enabled": false,
+      "serviceCode": "property-services",
+      "code": "null",
+      "path": ""
    }
-	 ]
+]
 }
