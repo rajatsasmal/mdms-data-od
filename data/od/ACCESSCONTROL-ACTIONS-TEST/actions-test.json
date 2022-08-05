@@ -13039,6 +13039,17 @@
       "serviceCode": "property-services",
       "code": "null",
       "path": ""
+   },
+   {
+      "id": 3263,
+      "name": "WS Consumer Master Report",
+      "url": "/report-services/reports/ws/consumerMaster",
+      "displayName": "WS Consumer Master Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "report-services",
+      "code": "null",
+      "path": ""
    }
 ]
 }

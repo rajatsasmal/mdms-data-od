@@ -23065,6 +23065,12 @@
       "actionid": 3262,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 3263,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
