@@ -23071,6 +23071,18 @@
       "actionid": 3263,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 3264,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "WS_CEMP",
+      "actionid": 3265,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
