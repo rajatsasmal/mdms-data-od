@@ -23065,6 +23065,78 @@
       "actionid": 3262,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "PLATFORM_USAGE_REPORT_VIEWER",
+      "actionid": 3263,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PLATFORM_USAGE_REPORT_VIEWER",
+      "actionid": 3264,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PLATFORM_USAGE_REPORT_VIEWER",
+      "actionid": 3265,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PLATFORM_USAGE_REPORT_VIEWER",
+      "actionid": 3266,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PLATFORM_USAGE_REPORT_VIEWER",
+      "actionid": 3267,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PLATFORM_USAGE_REPORT_VIEWER",
+      "actionid": 3268,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PLATFORM_USAGE_REPORT_VIEWER",
+      "actionid": 3269,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PLATFORM_USAGE_REPORT_VIEWER",
+      "actionid": 3270,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PLATFORM_USAGE_REPORT_VIEWER",
+      "actionid": 3271,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PLATFORM_USAGE_REPORT_VIEWER",
+      "actionid": 3272,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PLATFORM_USAGE_REPORT_VIEWER",
+      "actionid": 3273,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "PLATFORM_USAGE_REPORT_VIEWER",
+      "actionid": 3274,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }
