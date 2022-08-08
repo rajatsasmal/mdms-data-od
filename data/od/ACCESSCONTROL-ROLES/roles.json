@@ -891,6 +891,11 @@
       "code": "PREAPPROVED_PLAN_ADMIN",
       "name": "PREAPPROVED_PLAN_ADMIN",
       "description": "administrator for preapproved plans"
+    },
+    {
+      "code": "PLATFORM_USAGE_REPORT_VIEWER",
+      "name": "PLATFORM_USAGE_REPORT_VIEWER",
+      "description": "report viewer for platform usage reports"
     }
   ]
 }
