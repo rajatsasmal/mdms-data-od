@@ -12983,7 +12983,7 @@
       "code": "null",
       "navigationURL": "pt-common-screens/jalsathiIncentive",
       "path": "Water & Sewerage.W&S Reports.Jalsathi Incentive Report",
-      "leftIcon": "places:business-center"
+      "leftIcon": "editor:collections"
    },
    {
       "id": 3258,
@@ -13195,6 +13195,28 @@
       "orderNumber": 0,
       "enabled": true,
       "serviceCode": "report",
+      "code": "null",
+      "path": ""
+   },
+   {
+      "id": 3275,
+      "name": "WS Consumer Payment History Report",
+      "url": "/report-services/reports/ws/consumerPaymentHistory",
+      "displayName": "WS Consumer Payment History Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "report-services",
+      "code": "null",
+      "path": ""
+   },
+   {
+      "id": 3276,
+      "name": "WS Water Monthly Demand Report",
+      "url": "/report-services/reports/ws/waterMonthlyDemandReport",
+      "displayName": "WS Water Monthly Demand Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "report-services",
       "code": "null",
       "path": ""
    }
