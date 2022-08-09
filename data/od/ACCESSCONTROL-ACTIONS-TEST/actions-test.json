@@ -13219,6 +13219,17 @@
       "serviceCode": "report-services",
       "code": "null",
       "path": ""
+   },
+   {
+      "id": 3277,
+      "name": "Bill Summary for WS Service for a given month",
+      "url": "/report-services/reports/ws/billSummary",
+      "displayName": "Bill Summary",
+      "orderNumber": 0,
+      "enabled": true,
+      "serviceCode": "report-services",
+      "code": "null",
+      "path": ""
    }
 ]
 }
