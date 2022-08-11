@@ -13274,6 +13274,17 @@
       "serviceCode": "report-services",
       "code": "null",
       "path": ""
+   },
+   {
+      "id": 3282,
+      "name": "Property Details ULB and Ward wise",
+      "url": "/report-services/reports/pt/propertyDetails",
+      "displayName": "Property Details",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "report-services",
+      "code": "null",
+      "path": ""
    }
 ]
 }
