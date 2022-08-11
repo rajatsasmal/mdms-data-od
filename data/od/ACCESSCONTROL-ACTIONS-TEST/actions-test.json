@@ -13230,6 +13230,50 @@
       "serviceCode": "report-services",
       "code": "null",
       "path": ""
+   },
+   {
+      "id": 3278,
+      "name": "WS Consumer Master Report",
+      "url": "/report-services/reports/ws/consumerMaster",
+      "displayName": "WS Consumer Master Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "report-services",
+      "code": "null",
+      "path": ""
+   },
+   {
+      "id": 3279,
+      "name": "WS New Consumer Monthly Report",
+      "url": "/report-services/reports/ws/waterNewConsumerMonthlyReport",
+      "displayName": "WS New Consumer Monthly Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "report-services",
+      "code": "null",
+      "path": ""
+   },
+   {
+      "id": 3280,
+      "name": "WS Consumer History Report",
+      "url": "/report-services/reports/ws/wsConsumerHistoryReport",
+      "displayName": "WS Consumer History Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "report-services",
+      "code": "null",
+      "path": ""
+   },
+   {
+      "id": 3281,
+      "name": "Consumer Bill History Report",
+      "url": "/report-services/reports/ws/consumerBillHistoryReport",
+      "displayName": "Consumer Bill History Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "report-services",
+      "code": "null",
+      "path": ""
    }
 ]
 }
