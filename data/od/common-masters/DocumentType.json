@@ -213,6 +213,48 @@
       ]
     },
     {
+      "code": "NOC.AAI",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
+      "code": "NOC.AAI.UNDERTAKING1A",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
+      "code": "NOC.AAI.SITEELEVATION",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
+      "code": "NOC.AAI.SITECORDINATES",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
+      "code": "NOC.AAI.AUTHORIZATION",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
+      "code": "NOC.AAI.PERMISSION",
+      "active": true,
+      "allowedFormat": [
+        ".pdf"
+      ]
+    },
+    {
       "code": "NOC.AGRICULTURE.LANDUSE",
       "active": true
     },
