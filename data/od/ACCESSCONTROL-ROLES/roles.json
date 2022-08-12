@@ -896,6 +896,11 @@
       "code": "PLATFORM_USAGE_REPORT_VIEWER",
       "name": "PLATFORM_USAGE_REPORT_VIEWER",
       "description": "report viewer for platform usage reports"
+    },
+    {
+      "code": "AAI_NOC_APPROVER",
+      "name": "AAI_NOC_APPROVER",
+      "description": "role for approving AAI NOCs"
     }
   ]
 }
