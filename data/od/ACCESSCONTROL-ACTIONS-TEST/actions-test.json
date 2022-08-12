@@ -13274,17 +13274,6 @@
       "serviceCode": "report-services",
       "code": "null",
       "path": ""
-   },
-   {
-   "id": 3282,
-   "name": "AAI NOC Thirdparty pull",
-   "url": "/noc-services/v1/aainoc/_pull",
-   "displayName": "pull AAI NOCs",
-   "orderNumber": 0,
-   "enabled": true,
-   "serviceCode": "NOC",
-   "code": "null",
-   "path": ""
    }
 ]
 }

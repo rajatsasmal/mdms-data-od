@@ -23179,12 +23179,6 @@
       "actionid": 3281,
       "actioncode": "",
       "tenantId": "od"
-    },
-    {
-      "rolecode": "AAI_NOC_APPROVER",
-      "actionid": 3282,
-      "actioncode": "",
-      "tenantId": "od"
     }
   ]
 }
