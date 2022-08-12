@@ -13285,6 +13285,50 @@
       "serviceCode": "report-services",
       "code": "null",
       "path": ""
+   },
+   {
+      "id": 3283,
+      "name": "Tax Collector Wise Collection Report",
+      "url": "/report-services/reports/pt/taxCollectorWiseCollectionReport",
+      "displayName": "Tax Collector Wise Collection Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "report-services",
+      "code": "null",
+      "path": ""
+   },
+   {
+      "id": 3284,
+      "name": "ULB Wise Tax Collection Report",
+      "url": "/report-services/reports/pt/ulbWiseTaxCollectionReport",
+      "displayName": "ULB Wise Tax Collection Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "report-services",
+      "code": "null",
+      "path": ""
+   },
+   {
+      "id": 3285,
+      "name": "Property Wise Demand Report",
+      "url": "/report-services/reports/pt/propertyWiseDemandReport",
+      "displayName": "Property Wise Demand Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "report-services",
+      "code": "null",
+      "path": ""
+   },
+   {
+      "id": 3286,
+      "name": "Property Wise Collection Report",
+      "url": "/report-services/reports/pt/propertyWiseCollectionReport",
+      "displayName": "Property Wise Collection Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "report-services",
+      "code": "null",
+      "path": ""
    }
 ]
 }
