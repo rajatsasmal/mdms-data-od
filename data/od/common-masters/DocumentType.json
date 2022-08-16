@@ -170,6 +170,25 @@
       "code": "NOC.FIRE.CERTIFICATE",
       "active": true
     },
+	{
+      "code": "PAP.PREAPPROVED_ALLOTMENTLETTER",
+      "active": true
+    },
+
+{
+      "code": "PAP.PREAPPROVED_SCHEMEDRAWING",
+      "active": true
+    },
+
+{
+      "code": "PAP.PREAPPROVED_LAYOUTAPPROVELLETTER",
+      "active": true
+    },
+
+{
+      "code": "PAP.PREAPPROVED_APPROVEDLAYOUTDRAWING",
+      "active": true
+    },
     {
       "code": "NOC.FIRE.PlainApplication",
       "active": true,
