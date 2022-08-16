@@ -4,6 +4,96 @@
     "DocumentTypeMapping": [
         {
             "applicationType": "PROVISIONAL",
+            "nocType": "AAI_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.AAI",
+                    "required": false
+                },
+                {
+                    "documentType": "NOC.AAI.UNDERTAKING1A",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.AAI.SITEELEVATION",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.AAI.SITECORDINATES",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.AAI.AUTHORIZATION",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.AAI.PERMISSION",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "NEW",
+            "nocType": "AAI_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.AAI",
+                    "required": false
+                },
+                {
+                    "documentType": "NOC.AAI.UNDERTAKING1A",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.AAI.SITEELEVATION",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.AAI.SITECORDINATES",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.AAI.AUTHORIZATION",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.AAI.PERMISSION",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "RENEW",
+            "nocType": "AAI_NOC",
+            "docTypes": [
+                {
+                    "documentType": "NOC.AAI",
+                    "required": false
+                },
+                {
+                    "documentType": "NOC.AAI.UNDERTAKING1A",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.AAI.SITEELEVATION",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.AAI.SITECORDINATES",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.AAI.AUTHORIZATION",
+                    "required": true
+                },
+                {
+                    "documentType": "NOC.AAI.PERMISSION",
+                    "required": true
+                }
+            ]
+        },
+        {
+            "applicationType": "PROVISIONAL",
             "nocType": "FIRE_NOC",
             "docTypes": [
                 {

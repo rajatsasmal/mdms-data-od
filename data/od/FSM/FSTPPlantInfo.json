@@ -45,6 +45,17 @@
             "PlantOperationalTimings": "10.00am-06.00pm",
             "PlantOperationalCapacityKLD": "60",
             "ULBS": "od.testing"
+        },
+        {
+            "PlantCode": "ANG-005",
+            "PlantName": "Angul Septage Treatment Plant",
+            "active": true,
+            "PlantType": "SeTP",
+            "PlantLocation": "Angul",
+            "PlusCode": "GVJX+8J ",
+            "PlantOperationalTimings": "09.00am-05.00pm",
+            "PlantOperationalCapacityKLD": "18",
+            "ULBS": "od.angul"
         }
     ]
 }

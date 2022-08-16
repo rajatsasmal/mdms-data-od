@@ -53,6 +53,15 @@
             "NocUserRole":"FIRE_NOC_APPROVER"
         },
         {
+            "code": "AAI_NOC",
+            "isActive": true,
+            "offlineWF":"AAI_NOC_OFFLINE",
+            "onlineWF":"AAI_NOC_SRV",
+            "thirdPartyWF": "AAI_NOC_THIRD_PARTY",
+            "mode":"thirdParty",
+            "NocUserRole":"AAI_NOC_APPROVER"
+        },
+        {
             "code": "HUDULB_NOC",
             "isActive": false,
             "offlineWF": "HUDULB_NOC_OFFLINE",
