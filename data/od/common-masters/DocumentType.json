@@ -327,25 +327,7 @@
       "code": "APPL.LOCALBODY.DTCP_APPROVAL",
       "active": true
     },
-	{
-      "code": "PAP.PREAPPROVED_ALLOTMENTLETTER",
-      "active": true
-    },
 
-    {
-      "code": "PAP.PREAPPROVED_SCHEMEDRAWING",
-      "active": true
-    },
-
-    {
-      "code": "PAP.PREAPPROVED_LAYOUTAPPROVELLETTER",
-      "active": true
-    },
-
-    {
-      "code": "PAP.PREAPPROVED_APPROVEDLAYOUTDRAWING",
-      "active": true
-    },
     {
       "code": "OWNERIDPROOF",
       "allowedFormat": [
@@ -579,6 +561,25 @@
     },
     {
       "code": "NOC.COASTALREG.CERTIFICATE",
+      "active": true
+    },
+	{
+      "code": "PAP.PREAPPROVED_ALLOTMENTLETTER",
+      "active": true
+    },
+
+    {
+      "code": "PAP.PREAPPROVED_SCHEMEDRAWING",
+      "active": true
+    },
+
+    {
+      "code": "PAP.PREAPPROVED_LAYOUTAPPROVELLETTER",
+      "active": true
+    },
+
+    {
+      "code": "PAP.PREAPPROVED_APPROVEDLAYOUTDRAWING",
       "active": true
     },
     {
