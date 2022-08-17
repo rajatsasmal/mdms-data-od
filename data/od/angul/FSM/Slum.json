@@ -1,0 +1,336 @@
+{
+    "tenantId": "od.angul",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+            "name": "Somnath/Trinath Nagar",
+            "active": true,
+            "code": "ANSL002",
+            "locality": "VIL6"
+        },
+        {
+            "name": "Bank Colony (Nabin Nagar)",
+            "active": true,
+            "code": "ANSL003",
+            "locality": "VIL52"
+        },
+        {
+            "name": "Khalasi sahi",
+            "active": true,
+            "code": "ANSL004",
+            "locality": "VIL52"
+        },
+        {
+            "name": "Giri Market",
+            "active": true,
+            "code": "ANSL005",
+            "locality": "VIL52"
+        },
+        {
+            "name": "Patra Peta Sahi",
+            "active": true,
+            "code": "ANSL006",
+            "locality": "VIL52"
+        },
+        {
+            "name": "Bhandari Sahi",
+            "active": true,
+            "code": "ANSL007",
+            "locality": "VIL55"
+        },
+        {
+            "name": "Badhei Street",
+            "active": true,
+            "code": "ANSL008",
+            "locality": "VIL55"
+        },
+        {
+            "name": "Badakhemundi Bauri Street (Tota Palli Bauri Sahi)",
+            "active": true,
+            "code": "ANSL009",
+            "locality": "VIL55"
+        },
+        {
+            "name": "Mukteswar Bandha Street",
+            "active": true,
+            "code": "ANSL010",
+            "locality": "VIL57"
+        },
+        {
+            "name": "Jagili Street",
+            "active": true,
+            "code": "ANSL011",
+            "locality": "VIL57"
+        },
+        {
+            "name": "Bada Harijan Sahi",
+            "active": true,
+            "code": "ANSL012",
+            "locality": "VIL58"
+        },
+        {
+            "name": "Keuta Sahi & New Laxmi Nagar",
+            "active": true,
+            "code": "ANSL013",
+            "locality": "VIL59"
+        },
+        {
+            "name": "Gandhi Nagar Canal Sahi",
+            "active": true,
+            "code": "ANSL014",
+            "locality": "VIL61"
+        },
+        {
+            "name": "Dhimira Bauri Street",
+            "active": true,
+            "code": "ANSL015",
+            "locality": "VIL62"
+        },
+        {
+            "name": "Trinath Mandir Street",
+            "active": true,
+            "code": "ANSL016",
+            "locality": "VIL63"
+        },
+        {
+            "name": "Chanchada Pathar",
+            "active": true,
+            "code": "ANSL017",
+            "locality": "VIL63"
+        },
+        {
+            "name": "Somanatha Nagar, Khajuria Rd.",
+            "active": true,
+            "code": "ANSL018",
+            "locality": "VIL63"
+        },
+        {
+            "name": "Khajuria Road",
+            "active": true,
+            "code": "ANSL019",
+            "locality": "VIL63"
+        },
+        {
+            "name": "Santi Nagar",
+            "active": true,
+            "code": "ANSL020",
+            "locality": "VIL63"
+        },
+        {
+            "name": "Nehru Nagar 9th & 10th",
+            "active": true,
+            "code": "ANSL021",
+            "locality": "VIL63"
+        },
+        {
+            "name": "Sishu Mandir Road",
+            "active": true,
+            "code": "ANSL022",
+            "locality": "VIL63"
+        },
+        {
+            "name": "Main Road Dhoba Street",
+            "active": true,
+            "code": "ANSL023",
+            "locality": "VIL63"
+        },
+        {
+            "name": "Harihar Nagar",
+            "active": true,
+            "code": "ANSL024",
+            "locality": "VIL66"
+        },
+        {
+            "name": "Giri road",
+            "active": true,
+            "code": "ANSL025",
+            "locality": "VIL68"
+        },
+        {
+            "name": "Chanchada pathara",
+            "active": true,
+            "code": "ANSL026",
+            "locality": "VIL68"
+        },
+        {
+            "name": "Chandrasekhar Road",
+            "active": true,
+            "code": "ANSL027",
+            "locality": "VIL68"
+        },
+        {
+            "name": "Dandasi Sahi",
+            "active": true,
+            "code": "ANSL028",
+            "locality": "VIL70"
+        },
+        {
+            "name": "Ram Nagar Odia Sahi",
+            "active": true,
+            "code": "ANSL029",
+            "locality": "VIL71"
+        },
+        {
+            "name": "Deepa Harijansahi, Lanji palli",
+            "active": true,
+            "code": "ANSL030",
+            "locality": "VIL72"
+        },
+        {
+            "name": "Dandasi Sahi",
+            "active": true,
+            "code": "ANSL031",
+            "locality": "VIL72"
+        },
+        {
+            "name": "Chandi Street",
+            "active": true,
+            "code": "ANSL032",
+            "locality": "VIL72"
+        },
+        {
+            "name": "Harijana sahi, Lanjipalli",
+            "active": true,
+            "code": "ANSL033",
+            "locality": "VIL72"
+        },
+        {
+            "name": "Lanjipalli main road(Bauri Sahi, Adua Sahi & Keuta Sahi)",
+            "active": true,
+            "code": "ANSL034",
+            "locality": "VIL72"
+        },
+        {
+            "name": "Goudabandha sahi",
+            "active": true,
+            "code": "ANSL035",
+            "locality": "VIL72"
+        },
+        {
+            "name": "Lanjipalli main road",
+            "active": true,
+            "code": "ANSL036",
+            "locality": "VIL72"
+        },
+        {
+            "name": "Bapuji Nagar",
+            "active": true,
+            "code": "ANSL037",
+            "locality": "VIL73"
+        },
+        {
+            "name": "BrundabanNagar Hota Colony",
+            "active": true,
+            "code": "ANSL038",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Dhoba sahi(Ankuli)",
+            "active": true,
+            "code": "ANSL039",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Kalinji Sahi",
+            "active": true,
+            "code": "ANSL040",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Pradhan Sahi",
+            "active": true,
+            "code": "ANSL041",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Ananda Nagar",
+            "active": true,
+            "code": "ANSL042",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Jaleswarpur",
+            "active": true,
+            "code": "ANSL043",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Dhobasahi (Ankuli)",
+            "active": true,
+            "code": "ANSL044",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Reddy Sahi",
+            "active": true,
+            "code": "ANSL045",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Ankuli Sano Bauri Sahi",
+            "active": true,
+            "code": "ANSL046",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Ankuli Bada Bauri Sahi",
+            "active": true,
+            "code": "ANSL047",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Karji Sahi",
+            "active": true,
+            "code": "ANSL048",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Nua Sahi",
+            "active": true,
+            "code": "ANSL049",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Ankuli Mali Sahi",
+            "active": true,
+            "code": "ANSL050",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Bada Sahi, Hadi Sahi",
+            "active": true,
+            "code": "ANSL051",
+            "locality": "VIL74"
+        },
+        {
+            "name": "Main Road Sundhi Sahi",
+            "active": true,
+            "code": "ANSL052",
+            "locality": "VIL75"
+        },
+        {
+            "name": "Bauri Sahi (Ambapur)",
+            "active": true,
+            "code": "ANSL053",
+            "locality": "VIL75"
+        },
+        {
+            "name": "Old Bauri Sahi",
+            "active": true,
+            "code": "ANSL054",
+            "locality": "VIL75"
+        },
+        {
+            "name": "Dhobasahi (Khodasangi)",
+            "active": true,
+            "code": "ANSL055",
+            "locality": "VIL75"
+        },
+        {
+            "name": "Dhobasahi(Ambapua)",
+            "active": true,
+            "code": "ANSL056",
+            "locality": "VIL75"
+        }
+    ]
+}
