@@ -4,10 +4,10 @@
   "PreApprovedDocTypeMapping": [
     {
 		
-		"applicationType": "BUILDING_PLAN_SCRUTINY",
+	  "applicationType": "BUILDING_PLAN_SCRUTINY",
       "ServiceType": "NEW_CONSTRUCTION",
       "RiskType": "LOW",
-      "WFState": "INPROGRESS",
+      "WFState": "INITIATED",
       "docTypes": [
              
         {  
