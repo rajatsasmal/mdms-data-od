@@ -1,0 +1,336 @@
+{
+    "tenantId": "od.paradeep",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+         "name": "Bangalipad",
+         "active": "true",
+         "code": "PDSL001",
+         "locality": "VIL1"
+        },
+        {
+         "name": "Market Pada",
+         "active": "true",
+         "code": "PDSL002",
+         "locality": "VIL2"
+        },
+        {
+         "name": "Madelipada",
+         "active": "true",
+         "code": "PDSL003",
+         "locality": "VIL3"
+        },
+        {
+         "name": "Fishery Colony",
+         "active": "true",
+         "code": "PDSL004",
+         "locality": "VIL4"
+        },
+        {
+         "name": "Mundapada",
+         "active": "true",
+         "code": "PDSL005",
+         "locality": "VIL5"
+        },
+        {
+         "name": "Rajiv Nagar",
+         "active": "true",
+         "code": "PDSL006",
+         "locality": "VIL6"
+        },
+        {
+         "name": "Bijay Nagar",
+         "active": "true",
+         "code": "PDSL007",
+         "locality": "VIL7"
+        },
+        {
+         "name": "Gopinath Colony",
+         "active": "true",
+         "code": "PDSL008",
+         "locality": "VIL8"
+        },
+        {
+         "name": "Jardaripada",
+         "active": "true",
+         "code": "PDSL009",
+         "locality": "VIL9"
+        },
+        {
+         "name": "Lockpada",
+         "active": "true",
+         "code": "PDSL010",
+         "locality": "VIL10"
+        },
+        {
+         "name": "Talapada",
+         "active": "true",
+         "code": "PDSL011",
+         "locality": "VIL11"
+        },
+        {
+         "name": "Sukhuakhala",
+         "active": "true",
+         "code": "PDSL012",
+         "locality": "VIL12"
+        },
+        {
+         "name": "Bhitargarh Colony",
+         "active": "true",
+         "code": "PDSL013",
+         "locality": "VIL13"
+        },
+        {
+         "name": "Rice Mill",
+         "active": "true",
+         "code": "PDSL014",
+         "locality": "VIL14"
+        },
+        {
+         "name": "Giridhari Chhak",
+         "active": "true",
+         "code": "PDSL015",
+         "locality": "VIL15"
+        },
+        {
+         "name": "Santoshi Nagar",
+         "active": "true",
+         "code": "PDSL016",
+         "locality": "VIL16"
+        },
+        {
+         "name": "Balijhara",
+         "active": "true",
+         "code": "PDSL017",
+         "locality": "VIL17"
+        },
+        {
+         "name": "Bauriapalanda",
+         "active": "true",
+         "code": "PDSL018",
+         "locality": "VIL18"
+        },
+        {
+         "name": "Port Colony",
+         "active": "true",
+         "code": "PDSL019",
+         "locality": "VIL19"
+        },
+        {
+         "name": "Trainlinepada",
+         "active": "true",
+         "code": "PDSL020",
+         "locality": "VIL20"
+        },
+        {
+         "name": "Railway Colony",
+         "active": "true",
+         "code": "PDSL021",
+         "locality": "VIL21"
+        },
+        {
+         "name": "Prananath Colony",
+         "active": "true",
+         "code": "PDSL022",
+         "locality": "VIL22"
+        },
+        {
+         "name": "Satsang Colony",
+         "active": "true",
+         "code": "PDSL023",
+         "locality": "VIL23"
+        },
+        {
+         "name": "Fandi Colony",
+         "active": "true",
+         "code": "PDSL024",
+         "locality": "VIL24"
+        },
+        {
+         "name": "Sarala Colony",
+         "active": "true",
+         "code": "PDSL025",
+         "locality": "VIL25"
+        },
+        {
+         "name": "Brundaban Colony",
+         "active": "true",
+         "code": "PDSL026",
+         "locality": "VIL26"
+        },
+        {
+         "name": "Lokanath Colony",
+         "active": "true",
+         "code": "PDSL027",
+         "locality": "VIL27"
+        },
+        {
+         "name": "Mundapada",
+         "active": "true",
+         "code": "PDSL028",
+         "locality": "VIL28"
+        },
+        {
+         "name": "Brundaban Colony",
+         "active": "true",
+         "code": "PDSL029",
+         "locality": "VIL29"
+        },
+        {
+         "name": "GJAI Colony",
+         "active": "true",
+         "code": "PDSL030",
+         "locality": "VIL30"
+        },
+        {
+         "name": "CLR Plot",
+         "active": "true",
+         "code": "PDSL031",
+         "locality": "VIL31"
+        },
+        {
+         "name": "Cabin Market",
+         "active": "true",
+         "code": "PDSL032",
+         "locality": "VIL32"
+        },
+        {
+         "name": "Gopaljew Colony",
+         "active": "true",
+         "code": "PDSL033",
+         "locality": "VIL33"
+        },
+        {
+         "name": "Bhimabhoi Colony",
+         "active": "true",
+         "code": "PDSL034",
+         "locality": "VIL34"
+        },
+        {
+         "name": "Jagannath Colony",
+         "active": "true",
+         "code": "PDSL035",
+         "locality": "VIL35"
+        },
+        {
+         "name": "Mundapada",
+         "active": "true",
+         "code": "PDSL036",
+         "locality": "VIL36"
+        },
+        {
+         "name": "Haribolia Matha",
+         "active": "true",
+         "code": "PDSL037",
+         "locality": "VIL37"
+        },
+        {
+         "name": "Mundapada",
+         "active": "true",
+         "code": "PDSL038",
+         "locality": "VIL38"
+        },
+        {
+         "name": "Nuabazar",
+         "active": "true",
+         "code": "PDSL039",
+         "locality": "VIL39"
+        },
+        {
+         "name": "Sanjay Gandhi Pada",
+         "active": "true",
+         "code": "PDSL040",
+         "locality": "VIL40"
+        },
+        {
+         "name": "Kamal Cinema Hall Basti",
+         "active": "true",
+         "code": "PDSL041",
+         "locality": "VIL41"
+        },
+        {
+         "name": "Market Back Side Basti",
+         "active": "true",
+         "code": "PDSL042",
+         "locality": "VIL42"
+        },
+        {
+         "name": "Telugupada Basti",
+         "active": "true",
+         "code": "PDSL043",
+         "locality": "VIL43"
+        },
+        {
+         "name": "Mukteswarpada\n(Odiapada)",
+         "active": "true",
+         "code": "PDSL044",
+         "locality": "VIL44"
+        },
+        {
+         "name": "Telephone Colony",
+         "active": "true",
+         "code": "PDSL045",
+         "locality": "VIL45"
+        },
+        {
+         "name": "Nolia Sahi",
+         "active": "true",
+         "code": "PDSL046",
+         "locality": "VIL46"
+        },
+        {
+         "name": "Jadabpada",
+         "active": "true",
+         "code": "PDSL047",
+         "locality": "VIL47"
+        },
+        {
+         "name": "Basudev Colony",
+         "active": "true",
+         "code": "PDSL048",
+         "locality": "VIL48"
+        },
+        {
+         "name": "Rama Mandir Pada",
+         "active": "true",
+         "code": "PDSL049",
+         "locality": "VIL49"
+        },
+        {
+         "name": "Reddy Pada",
+         "active": "true",
+         "code": "PDSL050",
+         "locality": "VIL50"
+        },
+        {
+         "name": "Bangalipada",
+         "active": "true",
+         "code": "PDSL051",
+         "locality": "VIL51"
+        },
+        {
+         "name": "Ganga Mandirpada",
+         "active": "true",
+         "code": "PDSL052",
+         "locality": "VIL52"
+        },
+        {
+         "name": "Keuta Pada",
+         "active": "true",
+         "code": "PDSL053",
+         "locality": "VIL53"
+        },
+        {
+         "name": "Trinath Colony",
+         "active": "true",
+         "code": "PDSL054",
+         "locality": "VIL54"
+        },
+        {
+         "name": "Sitalata Mandirpada",
+         "active": "true",
+         "code": "PDSL055",
+         "locality": "VIL55"
+        }
+       ]
+}

@@ -1,0 +1,150 @@
+{
+    "tenantId": "od.khordha",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+         "name": "Chacharasahi labour Colony",
+         "active": "true",
+         "code": "KDSL001",
+         "locality": "VIL1"
+        },
+        {
+         "name": "Tala Chachara & Uppara Chacharasahi",
+         "active": "true",
+         "code": "KDSL002",
+         "locality": "VIL2"
+        },
+        {
+         "name": "Gobardhanpadia",
+         "active": "true",
+         "code": "KDSL003",
+         "locality": "VIL3"
+        },
+        {
+         "name": "Badha Sabarasahi",
+         "active": "true",
+         "code": "KDSL004",
+         "locality": "VIL4"
+        },
+        {
+         "name": "Gada Khordha Hanumanbasti",
+         "active": "true",
+         "code": "KDSL005",
+         "locality": "VIL5"
+        },
+        {
+         "name": "Sanapalla Damasahi",
+         "active": "true",
+         "code": "KDSL006",
+         "locality": "VIL6"
+        },
+        {
+         "name": "Hatapokharibasti",
+         "active": "true",
+         "code": "KDSL007",
+         "locality": "VIL7"
+        },
+        {
+         "name": "Jatrinibas Padia",
+         "active": "true",
+         "code": "KDSL008",
+         "locality": "VIL8"
+        },
+        {
+         "name": "Gadadwara Baurisahi",
+         "active": "true",
+         "code": "KDSL009",
+         "locality": "VIL9"
+        },
+        {
+         "name": "Samantarapur Jabardastpur",
+         "active": "true",
+         "code": "KDSL010",
+         "locality": "VIL10"
+        },
+        {
+         "name": "Kiranpada Damasahi",
+         "active": "true",
+         "code": "KDSL011",
+         "locality": "VIL11"
+        },
+        {
+         "name": "Kamanabara Harijansahi",
+         "active": "true",
+         "code": "KDSL012",
+         "locality": "VIL12"
+        },
+        {
+         "name": "Bhaliabadi Baurisahi",
+         "active": "true",
+         "code": "KDSL013",
+         "locality": "VIL13"
+        },
+        {
+         "name": "Lokeswar Temple Basti",
+         "active": "true",
+         "code": "KDSL014",
+         "locality": "VIL14"
+        },
+        {
+         "name": "DAV School Back Site",
+         "active": "true",
+         "code": "KDSL015",
+         "locality": "VIL15"
+        },
+        {
+         "name": "Bhaliabadi Nuasahi",
+         "active": "true",
+         "code": "KDSL016",
+         "locality": "VIL16"
+        },
+        {
+         "name": "Bhaliabadi Saharasahi",
+         "active": "true",
+         "code": "KDSL017",
+         "locality": "VIL17"
+        },
+        {
+         "name": "Nuasundarasahi",
+         "active": "true",
+         "code": "KDSL018",
+         "locality": "VIL18"
+        },
+        {
+         "name": "Santidan Colony (Leporsy Colony)",
+         "active": "true",
+         "code": "KDSL019",
+         "locality": "VIL19"
+        },
+        {
+         "name": "RWSS Basti",
+         "active": "true",
+         "code": "KDSL020",
+         "locality": "VIL20"
+        },
+        {
+         "name": "Ghasibaurisahi",
+         "active": "true",
+         "code": "KDSL021",
+         "locality": "VIL21"
+        },
+        {
+         "name": "Gurujanga Baurisahi",
+         "active": "true",
+         "code": "KDSL022",
+         "locality": "VIL22"
+        },
+        {
+         "name": "Tangisahi Kochilakanasahi",
+         "active": "true",
+         "code": "KDSL023",
+         "locality": "VIL23"
+        },
+        {
+         "name": "Dwarika Nagar Jabardastpur",
+         "active": "true",
+         "code": "KDSL024",
+         "locality": "VIL24"
+        }
+       ]
+}

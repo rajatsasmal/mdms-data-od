@@ -1,0 +1,60 @@
+{
+    "tenantId": "od.kashinagar",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+         "name": "Small majala street",
+         "active": "true",
+         "code": "KASL001",
+         "locality": "VIL1"
+        },
+        {
+         "name": "Kotha Street",
+         "active": "true",
+         "code": "KASL002",
+         "locality": "VIL2"
+        },
+        {
+         "name": "Khandava Road",
+         "active": "true",
+         "code": "KASL003",
+         "locality": "VIL3"
+        },
+        {
+         "name": "Banda Street lane-1",
+         "active": "true",
+         "code": "KASL004",
+         "locality": "VIL4"
+        },
+        {
+         "name": "Banda Street lane-2",
+         "active": "true",
+         "code": "KASL005",
+         "locality": "VIL5"
+        },
+        {
+         "name": "Police quarter street",
+         "active": "true",
+         "code": "KASL006",
+         "locality": "VIL6"
+        },
+        {
+         "name": "Harijan street lane-1",
+         "active": "true",
+         "code": "KASL007",
+         "locality": "VIL7"
+        },
+        {
+         "name": "Harijan street lane-2",
+         "active": "true",
+         "code": "KASL008",
+         "locality": "VIL8"
+        },
+        {
+         "name": "Big mala street",
+         "active": "true",
+         "code": "KASL009",
+         "locality": "VIL9"
+        }
+       ]
+}

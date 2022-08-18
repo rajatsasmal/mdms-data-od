@@ -1,0 +1,444 @@
+{
+    "tenantId": "od.balangir",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+         "name": "Aampada",
+         "active": "true",
+         "code": "BASL001",
+         "locality": "VIL1"
+        },
+        {
+         "name": "Larkipali Harijan Pada",
+         "active": "true",
+         "code": "BASL002",
+         "locality": "VIL2"
+        },
+        {
+         "name": "Jam Pada",
+         "active": "true",
+         "code": "BASL003",
+         "locality": "VIL3"
+        },
+        {
+         "name": "Juin Pada",
+         "active": "true",
+         "code": "BASL004",
+         "locality": "VIL4"
+        },
+        {
+         "name": "Iti Pada",
+         "active": "true",
+         "code": "BASL005",
+         "locality": "VIL5"
+        },
+        {
+         "name": "Gopabandhu Nagar",
+         "active": "true",
+         "code": "BASL006",
+         "locality": "VIL6"
+        },
+        {
+         "name": "Swadhin Nagar",
+         "active": "true",
+         "code": "BASL007",
+         "locality": "VIL7"
+        },
+        {
+         "name": "Kandhpalipada",
+         "active": "true",
+         "code": "BASL008",
+         "locality": "VIL8"
+        },
+        {
+         "name": "Nanda Pada",
+         "active": "true",
+         "code": "BASL009",
+         "locality": "VIL9"
+        },
+        {
+         "name": "Dunguripada & Kandhpali",
+         "active": "true",
+         "code": "BASL010",
+         "locality": "VIL10"
+        },
+        {
+         "name": "Talpali Harijan Pada",
+         "active": "true",
+         "code": "BASL011",
+         "locality": "VIL11"
+        },
+        {
+         "name": "Thikadar Pada",
+         "active": "true",
+         "code": "BASL012",
+         "locality": "VIL12"
+        },
+        {
+         "name": "Talpali Pada",
+         "active": "true",
+         "code": "BASL013",
+         "locality": "VIL13"
+        },
+        {
+         "name": "Ananda Nagar 1",
+         "active": "true",
+         "code": "BASL014",
+         "locality": "VIL14"
+        },
+        {
+         "name": "Ananda Nagar 2",
+         "active": "true",
+         "code": "BASL015",
+         "locality": "VIL15"
+        },
+        {
+         "name": "Utkal Nagar",
+         "active": "true",
+         "code": "BASL016",
+         "locality": "VIL16"
+        },
+        {
+         "name": "Meghnath Pada",
+         "active": "true",
+         "code": "BASL017",
+         "locality": "VIL17"
+        },
+        {
+         "name": "Chimnibhati",
+         "active": "true",
+         "code": "BASL018",
+         "locality": "VIL18"
+        },
+        {
+         "name": "Hata Pada",
+         "active": "true",
+         "code": "BASL019",
+         "locality": "VIL19"
+        },
+        {
+         "name": "Laxminagar",
+         "active": "true",
+         "code": "BASL020",
+         "locality": "VIL20"
+        },
+        {
+         "name": "Gandhinagar 1",
+         "active": "true",
+         "code": "BASL021",
+         "locality": "VIL21"
+        },
+        {
+         "name": "Gandhinagra 2&Junadihi",
+         "active": "true",
+         "code": "BASL022",
+         "locality": "VIL22"
+        },
+        {
+         "name": "Bagar Pada",
+         "active": "true",
+         "code": "BASL023",
+         "locality": "VIL23"
+        },
+        {
+         "name": "Satyanarayan Pada",
+         "active": "true",
+         "code": "BASL024",
+         "locality": "VIL24"
+        },
+        {
+         "name": "Behera Pali",
+         "active": "true",
+         "code": "BASL025",
+         "locality": "VIL25"
+        },
+        {
+         "name": "Beherapali ( Khajur Pada)",
+         "active": "true",
+         "code": "BASL026",
+         "locality": "VIL26"
+        },
+        {
+         "name": "Gatesorabar Pada",
+         "active": "true",
+         "code": "BASL027",
+         "locality": "VIL27"
+        },
+        {
+         "name": "Chamar Pada",
+         "active": "true",
+         "code": "BASL028",
+         "locality": "VIL28"
+        },
+        {
+         "name": "Sudpada ( Leprosy Pada)",
+         "active": "true",
+         "code": "BASL029",
+         "locality": "VIL29"
+        },
+        {
+         "name": "Club Pada Laxminarayan Pada ",
+         "active": "true",
+         "code": "BASL030",
+         "locality": "VIL30"
+        },
+        {
+         "name": "Dhibar Pada",
+         "active": "true",
+         "code": "BASL031",
+         "locality": "VIL31"
+        },
+        {
+         "name": "Kadampada-I,Ii,Iii",
+         "active": "true",
+         "code": "BASL032",
+         "locality": "VIL32"
+        },
+        {
+         "name": "Kansari Pada",
+         "active": "true",
+         "code": "BASL033",
+         "locality": "VIL33"
+        },
+        {
+         "name": "Dhuba Pada",
+         "active": "true",
+         "code": "BASL034",
+         "locality": "VIL34"
+        },
+        {
+         "name": "Malpada",
+         "active": "true",
+         "code": "BASL035",
+         "locality": "VIL35"
+        },
+        {
+         "name": "Hatipada",
+         "active": "true",
+         "code": "BASL036",
+         "locality": "VIL36"
+        },
+        {
+         "name": "Pratapsagar Pada",
+         "active": "true",
+         "code": "BASL037",
+         "locality": "VIL37"
+        },
+        {
+         "name": "Baijanti Pada",
+         "active": "true",
+         "code": "BASL038",
+         "locality": "VIL38"
+        },
+        {
+         "name": "Khaliapali",
+         "active": "true",
+         "code": "BASL039",
+         "locality": "VIL39"
+        },
+        {
+         "name": "Malgodam Pada",
+         "active": "true",
+         "code": "BASL040",
+         "locality": "VIL40"
+        },
+        {
+         "name": "Gotpada",
+         "active": "true",
+         "code": "BASL041",
+         "locality": "VIL41"
+        },
+        {
+         "name": "Bijakhaman",
+         "active": "true",
+         "code": "BASL042",
+         "locality": "VIL42"
+        },
+        {
+         "name": "Bijakhaman ( Harijan Pada)",
+         "active": "true",
+         "code": "BASL043",
+         "locality": "VIL43"
+        },
+        {
+         "name": "Lalit Nagar",
+         "active": "true",
+         "code": "BASL044",
+         "locality": "VIL44"
+        },
+        {
+         "name": "Rajib Nagar",
+         "active": "true",
+         "code": "BASL045",
+         "locality": "VIL45"
+        },
+        {
+         "name": "Tulsinagar-1",
+         "active": "true",
+         "code": "BASL046",
+         "locality": "VIL46"
+        },
+        {
+         "name": "Tulsinagar-2",
+         "active": "true",
+         "code": "BASL047",
+         "locality": "VIL47"
+        },
+        {
+         "name": "Nalkhandi Pada",
+         "active": "true",
+         "code": "BASL048",
+         "locality": "VIL48"
+        },
+        {
+         "name": "Gupteswar Nagar",
+         "active": "true",
+         "code": "BASL049",
+         "locality": "VIL49"
+        },
+        {
+         "name": "Indranagar",
+         "active": "true",
+         "code": "BASL050",
+         "locality": "VIL50"
+        },
+        {
+         "name": "Khairapada",
+         "active": "true",
+         "code": "BASL051",
+         "locality": "VIL51"
+        },
+        {
+         "name": "Meghupada",
+         "active": "true",
+         "code": "BASL052",
+         "locality": "VIL52"
+        },
+        {
+         "name": "Aloknagar",
+         "active": "true",
+         "code": "BASL053",
+         "locality": "VIL53"
+        },
+        {
+         "name": "Ranjit Colony",
+         "active": "true",
+         "code": "BASL054",
+         "locality": "VIL54"
+        },
+        {
+         "name": "Somnath Nagar",
+         "active": "true",
+         "code": "BASL055",
+         "locality": "VIL55"
+        },
+        {
+         "name": "Rajendra Pada-1",
+         "active": "true",
+         "code": "BASL056",
+         "locality": "VIL56"
+        },
+        {
+         "name": "Rajendra Pada-2",
+         "active": "true",
+         "code": "BASL057",
+         "locality": "VIL57"
+        },
+        {
+         "name": "Rajendra Pada-3",
+         "active": "true",
+         "code": "BASL058",
+         "locality": "VIL58"
+        },
+        {
+         "name": "Sastrinagar",
+         "active": "true",
+         "code": "BASL059",
+         "locality": "VIL59"
+        },
+        {
+         "name": "Nikhilnagar",
+         "active": "true",
+         "code": "BASL060",
+         "locality": "VIL60"
+        },
+        {
+         "name": "Hatisal Pada",
+         "active": "true",
+         "code": "BASL061",
+         "locality": "VIL61"
+        },
+        {
+         "name": "Laxmijor Pada",
+         "active": "true",
+         "code": "BASL062",
+         "locality": "VIL62"
+        },
+        {
+         "name": "Bibhuti Pada",
+         "active": "true",
+         "code": "BASL063",
+         "locality": "VIL63"
+        },
+        {
+         "name": "Barpali Pada",
+         "active": "true",
+         "code": "BASL064",
+         "locality": "VIL64"
+        },
+        {
+         "name": "Palsapatri",
+         "active": "true",
+         "code": "BASL065",
+         "locality": "VIL65"
+        },
+        {
+         "name": "Jyoti Nagar",
+         "active": "true",
+         "code": "BASL066",
+         "locality": "VIL66"
+        },
+        {
+         "name": "Municipality Colony",
+         "active": "true",
+         "code": "BASL067",
+         "locality": "VIL67"
+        },
+        {
+         "name": "Ichha Pada",
+         "active": "true",
+         "code": "BASL068",
+         "locality": "VIL68"
+        },
+        {
+         "name": "Dam Pada",
+         "active": "true",
+         "code": "BASL069",
+         "locality": "VIL69"
+        },
+        {
+         "name": "Ananada Nagar 3",
+         "active": "true",
+         "code": "BASL070",
+         "locality": "VIL70"
+        },
+        {
+         "name": "Hatisal Pada",
+         "active": "true",
+         "code": "BASL071",
+         "locality": "VIL71"
+        },
+        {
+         "name": "Brahman Pada",
+         "active": "true",
+         "code": "BASL072",
+         "locality": "VIL72"
+        },
+        {
+         "name": "Hatapada Pada",
+         "active": "true",
+         "code": "BASL073",
+         "locality": "VIL73"
+        }
+       ]
+}

@@ -1,0 +1,372 @@
+{
+    "tenantId": "od.puri",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+         "name": "Chakra Tirtha Nolia Basti",
+         "active": "true",
+         "code": "PUSL001",
+         "locality": "VIL1"
+        },
+        {
+         "name": "Penthakata Nolia Sahi(A)",
+         "active": "true",
+         "code": "PUSL002",
+         "locality": "VIL2"
+        },
+        {
+         "name": "Penthakata Nolia Sahi(B)",
+         "active": "true",
+         "code": "PUSL003",
+         "locality": "VIL3"
+        },
+        {
+         "name": "BaliaPanda(Bijaya Nagar)",
+         "active": "true",
+         "code": "PUSL004",
+         "locality": "VIL4"
+        },
+        {
+         "name": "Bali Nolia Sahi",
+         "active": "true",
+         "code": "PUSL005",
+         "locality": "VIL5"
+        },
+        {
+         "name": "Dhoba Sahi",
+         "active": "true",
+         "code": "PUSL006",
+         "locality": "VIL6"
+        },
+        {
+         "name": "Matitota",
+         "active": "true",
+         "code": "PUSL007",
+         "locality": "VIL7"
+        },
+        {
+         "name": "Gokha sahi",
+         "active": "true",
+         "code": "PUSL008",
+         "locality": "VIL8"
+        },
+        {
+         "name": "Mangala Ghat",
+         "active": "true",
+         "code": "PUSL009",
+         "locality": "VIL9"
+        },
+        {
+         "name": "Khuntia Bagicha Bhoi Basti",
+         "active": "true",
+         "code": "PUSL010",
+         "locality": "VIL10"
+        },
+        {
+         "name": "Jagannath Basti",
+         "active": "true",
+         "code": "PUSL011",
+         "locality": "VIL11"
+        },
+        {
+         "name": "Mashani Chandi",
+         "active": "true",
+         "code": "PUSL012",
+         "locality": "VIL12"
+        },
+        {
+         "name": "Markandeswara Sahi Harijan Basti",
+         "active": "true",
+         "code": "PUSL013",
+         "locality": "VIL13"
+        },
+        {
+         "name": "Tridev Nagar",
+         "active": "true",
+         "code": "PUSL014",
+         "locality": "VIL14"
+        },
+        {
+         "name": "Leporsy Colony",
+         "active": "true",
+         "code": "PUSL015",
+         "locality": "VIL15"
+        },
+        {
+         "name": "Hati Sala Bhoi Basti",
+         "active": "true",
+         "code": "PUSL016",
+         "locality": "VIL16"
+        },
+        {
+         "name": "Bhagabati Nagar",
+         "active": "true",
+         "code": "PUSL017",
+         "locality": "VIL17"
+        },
+        {
+         "name": "Para Nolia Sahi",
+         "active": "true",
+         "code": "PUSL018",
+         "locality": "VIL18"
+        },
+        {
+         "name": "Panchabati Sriram Nagar",
+         "active": "true",
+         "code": "PUSL019",
+         "locality": "VIL19"
+        },
+        {
+         "name": "Goranga Khuntia Basti",
+         "active": "true",
+         "code": "PUSL020",
+         "locality": "VIL20"
+        },
+        {
+         "name": "Maheswar Nagar",
+         "active": "true",
+         "code": "PUSL021",
+         "locality": "VIL21"
+        },
+        {
+         "name": "Gouda Bada Malik Sahi",
+         "active": "true",
+         "code": "PUSL022",
+         "locality": "VIL22"
+        },
+        {
+         "name": "Gauda Bada Nolia Sahi ",
+         "active": "true",
+         "code": "PUSL023",
+         "locality": "VIL23"
+        },
+        {
+         "name": "Akshya Dham Basti",
+         "active": "true",
+         "code": "PUSL024",
+         "locality": "VIL24"
+        },
+        {
+         "name": "Bali Harijan Sahi",
+         "active": "true",
+         "code": "PUSL025",
+         "locality": "VIL25"
+        },
+        {
+         "name": "Bali mochi basti",
+         "active": "true",
+         "code": "PUSL026",
+         "locality": "VIL26"
+        },
+        {
+         "name": "Gadi Khana (Mochi) Basti",
+         "active": "true",
+         "code": "PUSL027",
+         "locality": "VIL27"
+        },
+        {
+         "name": "Mochi Sahi",
+         "active": "true",
+         "code": "PUSL028",
+         "locality": "VIL28"
+        },
+        {
+         "name": "Indra Marga Colony",
+         "active": "true",
+         "code": "PUSL029",
+         "locality": "VIL29"
+        },
+        {
+         "name": "Old Sadar Thana Bhoi Basti",
+         "active": "true",
+         "code": "PUSL030",
+         "locality": "VIL30"
+        },
+        {
+         "name": "Rama Ballabha Colony",
+         "active": "true",
+         "code": "PUSL031",
+         "locality": "VIL31"
+        },
+        {
+         "name": "V.I.P Road Banki Muhan Basti",
+         "active": "true",
+         "code": "PUSL032",
+         "locality": "VIL32"
+        },
+        {
+         "name": "Banki Muhan Nala Basti",
+         "active": "true",
+         "code": "PUSL033",
+         "locality": "VIL33"
+        },
+        {
+         "name": "Zilla School Front",
+         "active": "true",
+         "code": "PUSL034",
+         "locality": "VIL34"
+        },
+        {
+         "name": "Gola Pucca Basti",
+         "active": "true",
+         "code": "PUSL035",
+         "locality": "VIL35"
+        },
+        {
+         "name": "Kumbharapara",
+         "active": "true",
+         "code": "PUSL036",
+         "locality": "VIL36"
+        },
+        {
+         "name": "Narendra Kona Harijan Basti",
+         "active": "true",
+         "code": "PUSL037",
+         "locality": "VIL37"
+        },
+        {
+         "name": "Mangala Sahi (N.S.Depot)",
+         "active": "true",
+         "code": "PUSL038",
+         "locality": "VIL38"
+        },
+        {
+         "name": "Gopabandhu Colony",
+         "active": "true",
+         "code": "PUSL039",
+         "locality": "VIL39"
+        },
+        {
+         "name": "Ramchandi Balikuda",
+         "active": "true",
+         "code": "PUSL040",
+         "locality": "VIL40"
+        },
+        {
+         "name": "Ghoada Bazar",
+         "active": "true",
+         "code": "PUSL041",
+         "locality": "VIL41"
+        },
+        {
+         "name": "Gora Kabar",
+         "active": "true",
+         "code": "PUSL042",
+         "locality": "VIL42"
+        },
+        {
+         "name": "Youth Hostel Back side Basti",
+         "active": "true",
+         "code": "PUSL043",
+         "locality": "VIL43"
+        },
+        {
+         "name": "Jali Sahi Telgu Basti(A)",
+         "active": "true",
+         "code": "PUSL044",
+         "locality": "VIL44"
+        },
+        {
+         "name": "Manibaba Colony",
+         "active": "true",
+         "code": "PUSL045",
+         "locality": "VIL45"
+        },
+        {
+         "name": "Banki muhan Nua sahi",
+         "active": "true",
+         "code": "PUSL046",
+         "locality": "VIL46"
+        },
+        {
+         "name": "Mangala Sahi ",
+         "active": "true",
+         "code": "PUSL047",
+         "locality": "VIL47"
+        },
+        {
+         "name": "Sahajoga Sahi",
+         "active": "true",
+         "code": "PUSL048",
+         "locality": "VIL48"
+        },
+        {
+         "name": "Jali Sahi (B) Ram Mandir",
+         "active": "true",
+         "code": "PUSL049",
+         "locality": "VIL49"
+        },
+        {
+         "name": "Railway Adibasi Basti",
+         "active": "true",
+         "code": "PUSL050",
+         "locality": "VIL50"
+        },
+        {
+         "name": "Bijayananda Nagar",
+         "active": "true",
+         "code": "PUSL051",
+         "locality": "VIL51"
+        },
+        {
+         "name": "Mahabir Nagar",
+         "active": "true",
+         "code": "PUSL052",
+         "locality": "VIL52"
+        },
+        {
+         "name": "Gangamata Bhoi Sahi",
+         "active": "true",
+         "code": "PUSL053",
+         "locality": "VIL53"
+        },
+        {
+         "name": "Kumbharapara Baada sahi",
+         "active": "true",
+         "code": "PUSL054",
+         "locality": "VIL54"
+        },
+        {
+         "name": "Matiapara",
+         "active": "true",
+         "code": "PUSL055",
+         "locality": "VIL55"
+        },
+        {
+         "name": "Tikarapara",
+         "active": "true",
+         "code": "PUSL056",
+         "locality": "VIL56"
+        },
+        {
+         "name": "Kumuti Patna",
+         "active": "true",
+         "code": "PUSL057",
+         "locality": "VIL57"
+        },
+        {
+         "name": "Chasa Sahi",
+         "active": "true",
+         "code": "PUSL058",
+         "locality": "VIL58"
+        },
+        {
+         "name": "Chamara Sahi",
+         "active": "true",
+         "code": "PUSL059",
+         "locality": "VIL59"
+        },
+        {
+         "name": "Binabha Nagar",
+         "active": "true",
+         "code": "PUSL060",
+         "locality": "VIL60"
+        },
+        {
+         "name": "Mangala Patna",
+         "active": "true",
+         "code": "PUSL061",
+         "locality": "VIL61"
+        }
+       ]
+}

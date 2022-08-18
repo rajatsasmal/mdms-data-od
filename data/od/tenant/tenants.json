@@ -88,6 +88,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM",
         "Sat": "9.00 AM - 12.00 PM"
       },
+      "pincode":[
+        759122,
+        759132,
+        759123,
+        759143
+      ],
       "city": {
         "name": "Angul",
         "localName": null,
@@ -124,6 +130,12 @@
         "Mon - Fri": "9.00 AM - 6.00 PM",
         "Sat": "9.00 AM - 12.00 PM"
       },
+      "pincode":[
+        754025,
+        754071,
+        754028, 
+        754026
+      ],
       "city": {
         "name": "Choudwar",
         "localName": null,
@@ -410,6 +422,9 @@
         "Mon - Fri": "9.00 AM - 6.00 PM",
         "Sat": "9.00 AM - 12.00 PM"
       },
+      "pincode":[
+        752055
+      ],
       "city": {
         "name": "Khordha",
         "localName": null,
@@ -1128,6 +1143,9 @@
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
+      "pincode":[
+        761110
+      ],
       "city": {
         "name": "Aska",
         "localName": null,
@@ -1268,6 +1286,9 @@
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
+      "pincode":[
+        767001
+      ],
       "city": {
         "name": "Balangir",
         "localName": null,
@@ -1688,6 +1709,10 @@
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
+      "pincode":[
+        768218,
+        768217
+      ],
       "city": {
         "name": "Belpahar",
         "localName": null,
@@ -1723,6 +1748,10 @@
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
+      "pincode":[
+        756100,
+        756116
+      ],
       "city": {
         "name": "Bhadrak",
         "localName": null,
@@ -1931,6 +1960,9 @@
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
+      "pincode":[
+        768028
+      ],
       "city": {
         "name": "Bijepur",
         "localName": null,
@@ -2036,6 +2068,10 @@
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
+      "pincode":[
+        768216, 
+        768225
+      ],
       "city": {
         "name": "Brajrajnagar",
         "localName": null,
@@ -2736,6 +2772,12 @@
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
+      "pincode":[
+        768201, 
+        768202, 
+        768203, 
+        768204
+      ],
       "city": {
         "name": "Jharsuguda",
         "localName": null,
@@ -2771,6 +2813,9 @@
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
+      "pincode":[
+        758038
+      ],
       "city": {
         "name": "Joda",
         "localName": null,
@@ -2946,6 +2991,9 @@
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
+      "pincode":[
+        761206
+      ],
       "city": {
         "name": "Kashinagar",
         "localName": null,
@@ -3191,6 +3239,9 @@
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
+      "pincode":[
+        766104
+      ],
       "city": {
         "name": "Khariar",
         "localName": null,
@@ -3366,6 +3417,9 @@
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
+      "pincode":[
+        768222
+      ],
       "city": {
         "name": "Kuchinda",
         "localName": null,
