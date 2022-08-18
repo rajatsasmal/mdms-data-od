@@ -33,6 +33,12 @@
           "required": false,
           "allow": true,
           "order": 4
+        },
+		{
+          "code": "PAP.PREAPPROVED_GIFTDEEDDOCUMENT",
+          "required": false,
+          "allow": true,
+          "order": 5
         }
 		
 	
