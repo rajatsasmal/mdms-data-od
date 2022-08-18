@@ -582,6 +582,10 @@
       "code": "PAP.PREAPPROVED_APPROVEDLAYOUTDRAWING",
       "active": true
     },
+	{
+      "code": "PAP.PREAPPROVED_GIFTDEEDDOCUMENT",
+      "active": true
+    },
     {
       "code": "MR.BRIDEIDPROOF",
       "allowedFormat": [
