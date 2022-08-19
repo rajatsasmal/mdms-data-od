@@ -134,6 +134,61 @@
             "PlantOperationalCapacityKLD": "12",
             "ULBS": "od.choudwar"
         }  ,
+        {
+            "PlantCode": "CUTT-013",
+            "PlantName": "Cuttack Septage Treatment Plant",
+            "active": true,
+            "PlantType": "SeTP",
+            "PlantLocation": "Cuttack",
+            "PlusCode": "FV79+G8",
+            "PlantOperationalTimings": "09.00am-05.00pm",
+            "PlantOperationalCapacityKLD": "120",
+            "ULBS": "od.cuttack"
+        },
+        {
+            "PlantCode": "GUNU-014",
+            "PlantName": "Gunupur Septage Treatment Plant",
+            "active": true,
+            "PlantType": "SeTP",
+            "PlantLocation": "Gunupur",
+            "PlusCode": "3RCC+88",
+            "PlantOperationalTimings": "10.00am-05.00pm",
+            "PlantOperationalCapacityKLD": "10",
+            "ULBS": "od.gunupur"
+        },
+        {
+            "PlantCode": "HING-015",
+            "PlantName": "Hinjilicut Septage Treatment Plant",
+            "active": true,
+            "PlantType": "SeTP",
+            "PlantLocation": "Hinjilicut",
+            "PlusCode": "FPJW+V2",
+            "PlantOperationalTimings": "09.00am-05.00pm",
+            "PlantOperationalCapacityKLD": "10",
+            "ULBS": "od.hinjilicut"
+        },
+        {
+            "PlantCode": "JAGA-016",
+            "PlantName": "Jagatsinghpur Septage Treatment Plant",
+            "active": true,
+            "PlantType": "SeTP",
+            "PlantLocation": "Jagatsinghpur",
+            "PlusCode": "752H+WG",
+            "PlantOperationalTimings": "10.00am-05.00pm",
+            "PlantOperationalCapacityKLD": "20",
+            "ULBS": "od.jagatsinghpur"
+        },
+        {
+            "PlantCode": "JATN-017",
+            "PlantName": "Jatni Septage Treatment Plant",
+            "active": true,
+            "PlantType": "SeTP",
+            "PlantLocation": "Jatni",
+            "PlusCode": "5PJ3+J7",
+            "PlantOperationalTimings": "09.00am-04.00pm",
+            "PlantOperationalCapacityKLD": "20",
+            "ULBS": "od.jatni"
+        },
         {  
             "PlantCode": "JHAR-018",
             "PlantName": "Jharsuguda Septage Treatment Plant",

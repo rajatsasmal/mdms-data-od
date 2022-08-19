@@ -16,6 +16,9 @@
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
+      "pincode":[
+        753001,  753002, 753003, 753004, 753005, 753006, 753007, 753008, 753009, 753010, 753012, 753013, 753014 , 753015, 753051, 753071, 753295, 754006, 754022, 754016, 754026, 754029, 754036, 754130, 754131, 754159,  754200, 754201, 754202, 754203, 754207, 754209, 754221, 754282, 754286, 754293, 754021
+      ],
       "city": {
         "name": "Cuttack",
         "localName": null,
@@ -52,6 +55,9 @@
         "Mon - Fri": "9.00 AM - 6.00 PM",
         "Sat": "9.00 AM - 12.00 PM"
       },
+      "pincode":[
+        752050
+      ],
       "city": {
         "name": "Jatni",
         "localName": null,
@@ -2527,6 +2533,9 @@
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
+      "pincode":[
+        765022
+      ],
       "city": {
         "name": "Gunupur",
         "localName": null,
@@ -2597,6 +2606,9 @@
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
+      "pincode":[
+        761102
+      ],
       "city": {
         "name": "Hinjilicut",
         "localName": null,
@@ -2632,6 +2644,9 @@
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
+      "pincode":[
+        754103, 754294
+      ],
       "city": {
         "name": "Jagatsinghpur",
         "localName": null,
