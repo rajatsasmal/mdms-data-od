@@ -1957,6 +1957,18 @@
             "orderNumber": "1",
             "description": "Public Washrooms",
             "colorCode": "101"
+        },
+        {
+            "name": "Mixed Use",
+            "code": "M-M",
+            "active": true,
+            "occupancyType": "M",
+            "maxCoverage": "222",
+            "minFar": "160",
+            "maxFar": "161",
+            "orderNumber": "1",
+            "description": "Mixed Use",
+            "colorCode": "-1"
         }
     ]
 }
