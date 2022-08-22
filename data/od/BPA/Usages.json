@@ -1601,6 +1601,16 @@
             "orderNumber": "9",
             "description": "Seri culture",
             "colorCode": null
+        },
+        {
+            "name": "Mixed Use",
+            "code": "M-M-M",
+            "active": true,
+            "occupancyType": "M",
+            "subOccupancyType": "M-M",
+            "orderNumber": "10",
+            "description": "Mixed Use",
+            "colorCode": null
         }
     ]
 }
