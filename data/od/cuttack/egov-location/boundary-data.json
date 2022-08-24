@@ -628,16 +628,6 @@
             "code": "VIL61"
           },
           {
-            "id": "63",
-            "boundaryNum": 1,
-            "name": "Patapur",
-            "localname": "Patapur",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL62"
-          },
-          {
             "id": "64",
             "boundaryNum": 1,
             "name": "Phakirpara",
@@ -1484,16 +1474,6 @@
             "latitude": null,
             "label": "Locality",
             "code": "VIL61"
-          },
-          {
-            "id": "63",
-            "boundaryNum": 1,
-            "name": "Patapur",
-            "localname": "Patapur",
-            "longitude": null,
-            "latitude": null,
-            "label": "Locality",
-            "code": "VIL62"
           },
           {
             "id": "64",

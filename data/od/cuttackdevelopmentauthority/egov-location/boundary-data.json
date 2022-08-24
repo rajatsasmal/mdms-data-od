@@ -546,6 +546,16 @@
             "latitude": null,
             "label": "Locality",
             "code": "VIL53"
+          },
+          {
+            "id": "55",
+            "boundaryNum": 1,
+            "name": "Patapur",
+            "localname": "Patapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL54"
           }
         ]
       }
@@ -1084,6 +1094,16 @@
             "latitude": null,
             "label": "Locality",
             "code": "VIL52"
+          },
+          {
+            "id": "54",
+            "boundaryNum": 1,
+            "name": "Patapur",
+            "localname": "Patapur",
+            "longitude": null,
+            "latitude": null,
+            "label": "Locality",
+            "code": "VIL53"
           }
         ]
       }
