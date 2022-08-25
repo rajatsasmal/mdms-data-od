@@ -901,6 +901,11 @@
       "code": "AAI_NOC_APPROVER",
       "name": "AAI_NOC_APPROVER",
       "description": "role for approving AAI NOCs"
+    },
+    {
+      "code": "JALSATHI",
+      "name": "JALSATHI",
+      "description": "role for taking collection"
     }
   ]
 }

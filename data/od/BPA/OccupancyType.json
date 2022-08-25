@@ -100,6 +100,17 @@
          "orderNumber":"9",
          "description":"Additional Feature",
          "colorCode":null
+      },
+      {
+         "name":"Mixed Use",
+         "code":"M",
+         "active":true,
+         "maxCoverage":"72",
+         "minFar":"9",
+         "maxFar":"10",
+         "orderNumber":"10",
+         "description":"Mixed Use",
+         "colorCode":null
       }
    ]
 }
