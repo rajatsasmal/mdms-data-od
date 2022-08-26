@@ -39,6 +39,12 @@
           "required": false,
           "allow": true,
           "order": 5
+        },
+		{
+          "code": "PAP.PREAPPROVED_OTHERS",
+          "required": false,
+          "allow": true,
+          "order": 6
         }
 		
 	
