@@ -1,0 +1,114 @@
+{
+    "tenantId": "od.belpahar",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+         "name": "Muchbahal",
+         "active": "true",
+         "code": "BESL001",
+         "locality": "VIL1"
+        },
+        {
+         "name": "Mirdhadera",
+         "active": "true",
+         "code": "BESL002",
+         "locality": "VIL2"
+        },
+        {
+         "name": "Junadihi",
+         "active": "true",
+         "code": "BESL003",
+         "locality": "VIL3"
+        },
+        {
+         "name": "Gourpada",
+         "active": "true",
+         "code": "BESL004",
+         "locality": "VIL4"
+        },
+        {
+         "name": "Maharanapada",
+         "active": "true",
+         "code": "BESL005",
+         "locality": "VIL5"
+        },
+        {
+         "name": "Uparpada",
+         "active": "true",
+         "code": "BESL006",
+         "locality": "VIL6"
+        },
+        {
+         "name": "Highschoolpada",
+         "active": "true",
+         "code": "BESL007",
+         "locality": "VIL7"
+        },
+        {
+         "name": "Luhurapada",
+         "active": "true",
+         "code": "BESL008",
+         "locality": "VIL8"
+        },
+        {
+         "name": "Cplonypada",
+         "active": "true",
+         "code": "BESL009",
+         "locality": "VIL9"
+        },
+        {
+         "name": "Mahijore",
+         "active": "true",
+         "code": "BESL010",
+         "locality": "VIL10"
+        },
+        {
+         "name": "Leporcy Colony",
+         "active": "true",
+         "code": "BESL011",
+         "locality": "VIL11"
+        },
+        {
+         "name": "Thungiadera",
+         "active": "true",
+         "code": "BESL012",
+         "locality": "VIL12"
+        },
+        {
+         "name": "Demulpada",
+         "active": "true",
+         "code": "BESL013",
+         "locality": "VIL13"
+        },
+        {
+         "name": "Mahulpada",
+         "active": "true",
+         "code": "BESL014",
+         "locality": "VIL14"
+        },
+        {
+         "name": "Udajahajpada",
+         "active": "true",
+         "code": "BESL015",
+         "locality": "VIL15"
+        },
+        {
+         "name": "Babapada/Collegepada",
+         "active": "true",
+         "code": "BESL016",
+         "locality": "VIL16"
+        },
+        {
+         "name": "Kadupada/Jhandapada",
+         "active": "true",
+         "code": "BESL017",
+         "locality": "VIL17"
+        },
+        {
+         "name": "Nuapada/Churchpada",
+         "active": "true",
+         "code": "BESL018",
+         "locality": "VIL18"
+        }
+       ]
+}

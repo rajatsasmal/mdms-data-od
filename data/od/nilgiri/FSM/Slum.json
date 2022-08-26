@@ -1,0 +1,132 @@
+{
+    "tenantId": "od.nilgiri",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+         "name": "Adibashi Sahi",
+         "active": "true",
+         "code": "NISL001",
+         "locality": "VIL1"
+        },
+        {
+         "name": "Baharasahi",
+         "active": "true",
+         "code": "NISL002",
+         "locality": "VIL2"
+        },
+        {
+         "name": "Baligohiri",
+         "active": "true",
+         "code": "NISL003",
+         "locality": "VIL3"
+        },
+        {
+         "name": "Chatiri sahi",
+         "active": "true",
+         "code": "NISL004",
+         "locality": "VIL4"
+        },
+        {
+         "name": "ChiminiBhati",
+         "active": "true",
+         "code": "NISL005",
+         "locality": "VIL5"
+        },
+        {
+         "name": "Dahanimara",
+         "active": "true",
+         "code": "NISL006",
+         "locality": "VIL6"
+        },
+        {
+         "name": "Dhadasahi",
+         "active": "true",
+         "code": "NISL007",
+         "locality": "VIL7"
+        },
+        {
+         "name": "Dumasahi",
+         "active": "true",
+         "code": "NISL008",
+         "locality": "VIL8"
+        },
+        {
+         "name": "Gudikhania",
+         "active": "true",
+         "code": "NISL009",
+         "locality": "VIL9"
+        },
+        {
+         "name": "Gunthuna Sahi",
+         "active": "true",
+         "code": "NISL010",
+         "locality": "VIL10"
+        },
+        {
+         "name": "Jauniri",
+         "active": "true",
+         "code": "NISL011",
+         "locality": "VIL11"
+        },
+        {
+         "name": "Jenasahi",
+         "active": "true",
+         "code": "NISL012",
+         "locality": "VIL12"
+        },
+        {
+         "name": "Kantapada",
+         "active": "true",
+         "code": "NISL013",
+         "locality": "VIL13"
+        },
+        {
+         "name": "Krushersahi",
+         "active": "true",
+         "code": "NISL014",
+         "locality": "VIL14"
+        },
+        {
+         "name": "Manshigotha",
+         "active": "true",
+         "code": "NISL015",
+         "locality": "VIL15"
+        },
+        {
+         "name": "Mathapokhari ",
+         "active": "true",
+         "code": "NISL016",
+         "locality": "VIL16"
+        },
+        {
+         "name": "Nua sahi",
+         "active": "true",
+         "code": "NISL017",
+         "locality": "VIL17"
+        },
+        {
+         "name": "Parida Sahi",
+         "active": "true",
+         "code": "NISL018",
+         "locality": "VIL18"
+        },
+        {
+         "name": "Ranipokhari",
+         "active": "true",
+         "code": "NISL019",
+         "locality": "VIL19"
+        },
+        {
+         "name": "Saharasahi",
+         "active": "true",
+         "code": "NISL020",
+         "locality": "VIL20"
+        },
+        {
+         "name": "Station Sahi",
+         "active": "true",
+         "code": "NISL021",
+         "locality": "VIL21"
+        }
+       ]
+}

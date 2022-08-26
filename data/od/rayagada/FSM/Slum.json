@@ -1,0 +1,156 @@
+{
+    "tenantId": "od.rayagada",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+         "name": "Asdibasi Colony (Near PHD)",
+         "active": "true",
+         "code": "RYSL001",
+         "locality": "VIL1"
+        },
+        {
+         "name": "Ambaguda-1",
+         "active": "true",
+         "code": "RYSL002",
+         "locality": "VIL2"
+        },
+        {
+         "name": "Ambaguda-2",
+         "active": "true",
+         "code": "RYSL003",
+         "locality": "VIL3"
+        },
+        {
+         "name": "Anjeyapetta",
+         "active": "true",
+         "code": "RYSL004",
+         "locality": "VIL4"
+        },
+        {
+         "name": "Bhima Street",
+         "active": "true",
+         "code": "RYSL005",
+         "locality": "VIL5"
+        },
+        {
+         "name": "Chilling Plant Back Side",
+         "active": "true",
+         "code": "RYSL006",
+         "locality": "VIL6"
+        },
+        {
+         "name": "Chintalipetta",
+         "active": "true",
+         "code": "RYSL007",
+         "locality": "VIL7"
+        },
+        {
+         "name": "DFO Colony",
+         "active": "true",
+         "code": "RYSL008",
+         "locality": "VIL8"
+        },
+        {
+         "name": "Fire station Back Side(Dhepo Street)",
+         "active": "true",
+         "code": "RYSL009",
+         "locality": "VIL9"
+        },
+        {
+         "name": "Harijana Street(Sweeper Colony)",
+         "active": "true",
+         "code": "RYSL010",
+         "locality": "VIL10"
+        },
+        {
+         "name": "JagliSahi",
+         "active": "true",
+         "code": "RYSL011",
+         "locality": "VIL11"
+        },
+        {
+         "name": "Jhodia Street",
+         "active": "true",
+         "code": "RYSL012",
+         "locality": "VIL12"
+        },
+        {
+         "name": "Jsco New Sahi",
+         "active": "true",
+         "code": "RYSL013",
+         "locality": "VIL13"
+        },
+        {
+         "name": "Koilapada",
+         "active": "true",
+         "code": "RYSL014",
+         "locality": "VIL14"
+        },
+        {
+         "name": "KrushnaNagara",
+         "active": "true",
+         "code": "RYSL015",
+         "locality": "VIL15"
+        },
+        {
+         "name": "MajhiGauri and Bangali Street",
+         "active": "true",
+         "code": "RYSL016",
+         "locality": "VIL16"
+        },
+        {
+         "name": "New Kotlaguda",
+         "active": "true",
+         "code": "RYSL017",
+         "locality": "VIL17"
+        },
+        {
+         "name": "Odiguda",
+         "active": "true",
+         "code": "RYSL018",
+         "locality": "VIL18"
+        },
+        {
+         "name": "Railway Good Shed Colony",
+         "active": "true",
+         "code": "RYSL019",
+         "locality": "VIL19"
+        },
+        {
+         "name": "Ralway line",
+         "active": "true",
+         "code": "RYSL020",
+         "locality": "VIL20"
+        },
+        {
+         "name": "Raniguda",
+         "active": "true",
+         "code": "RYSL021",
+         "locality": "VIL21"
+        },
+        {
+         "name": "Relli Street",
+         "active": "true",
+         "code": "RYSL022",
+         "locality": "VIL22"
+        },
+        {
+         "name": "Underground area",
+         "active": "true",
+         "code": "RYSL023",
+         "locality": "VIL23"
+        },
+        {
+         "name": "Utkal Mani nagar",
+         "active": "true",
+         "code": "RYSL024",
+         "locality": "VIL24"
+        },
+        {
+         "name": "Womens Collage Back side",
+         "active": "true",
+         "code": "RYSL025",
+         "locality": "VIL25"
+        }
+       ]
+}

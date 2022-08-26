@@ -1,0 +1,60 @@
+{
+    "tenantId": "od.kuchinda",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+         "name": "Kundaposhi",
+         "active": "true",
+         "code": "KUSL001",
+         "locality": "VIL1"
+        },
+        {
+         "name": "Ramji Pada",
+         "active": "true",
+         "code": "KUSL002",
+         "locality": "VIL2"
+        },
+        {
+         "name": "Sargidihi",
+         "active": "true",
+         "code": "KUSL003",
+         "locality": "VIL3"
+        },
+        {
+         "name": "Nursery Pada",
+         "active": "true",
+         "code": "KUSL004",
+         "locality": "VIL4"
+        },
+        {
+         "name": "Mahuldihi",
+         "active": "true",
+         "code": "KUSL005",
+         "locality": "VIL5"
+        },
+        {
+         "name": "Las Pada",
+         "active": "true",
+         "code": "KUSL006",
+         "locality": "VIL6"
+        },
+        {
+         "name": "Jyoti Pada",
+         "active": "true",
+         "code": "KUSL007",
+         "locality": "VIL7"
+        },
+        {
+         "name": "Church Pada",
+         "active": "true",
+         "code": "KUSL008",
+         "locality": "VIL8"
+        },
+        {
+         "name": "Rajadhani Pada",
+         "active": "true",
+         "code": "KUSL009",
+         "locality": "VIL9"
+        }
+       ]
+}

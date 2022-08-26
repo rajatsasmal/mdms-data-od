@@ -1,0 +1,96 @@
+{
+    "tenantId": "od.choudwar",
+    "moduleName": "FSM",
+    "Slum": [
+        {
+         "name": "Sweeper Colony (Ward No. 17)",
+         "active": "true",
+         "code": "CHSL001",
+         "locality": "VIL1"
+        },
+        {
+         "name": "Gundicha Vihar (Ward No. 10)",
+         "active": "true",
+         "code": "CHSL002",
+         "locality": "VIL2"
+        },
+        {
+         "name": "Jagannathpada (Ward No. 10)",
+         "active": "true",
+         "code": "CHSL003",
+         "locality": "VIL3"
+        },
+        {
+         "name": "Church Lane (Ward No. 10)",
+         "active": "true",
+         "code": "CHSL004",
+         "locality": "VIL4"
+        },
+        {
+         "name": "Labour Tenament Basti (Ward No. 10)",
+         "active": "true",
+         "code": "CHSL005",
+         "locality": "VIL5"
+        },
+        {
+         "name": "Gouda Sahi (Ward No. 18)",
+         "active": "true",
+         "code": "CHSL006",
+         "locality": "VIL6"
+        },
+        {
+         "name": "Munda Sahi (Ward No. 18)",
+         "active": "true",
+         "code": "CHSL007",
+         "locality": "VIL7"
+        },
+        {
+         "name": "Chudanga Sahi (Ward No. 18)",
+         "active": "true",
+         "code": "CHSL008",
+         "locality": "VIL8"
+        },
+        {
+         "name": "Tarini Sahi (Ward No. 18)",
+         "active": "true",
+         "code": "CHSL009",
+         "locality": "VIL9"
+        },
+        {
+         "name": "Sweeper Colony (Ward No. 13)",
+         "active": "true",
+         "code": "CHSL010",
+         "locality": "VIL10"
+        },
+        {
+         "name": "Charigharia Munda Basti (Ward No. 16)",
+         "active": "true",
+         "code": "CHSL011",
+         "locality": "VIL11"
+        },
+        {
+         "name": "Telugu Basti (Ward No. 16)",
+         "active": "true",
+         "code": "CHSL012",
+         "locality": "VIL12"
+        },
+        {
+         "name": "Budhalinga (Ward No. 12)",
+         "active": "true",
+         "code": "CHSL013",
+         "locality": "VIL13"
+        },
+        {
+         "name": "Mundamal Matha Sahi (Ward No. 7)",
+         "active": "true",
+         "code": "CHSL014",
+         "locality": "VIL14"
+        },
+        {
+         "name": "Kedareswar (Ward No. 19)",
+         "active": "true",
+         "code": "CHSL015",
+         "locality": "VIL15"
+        }
+       ]
+}
