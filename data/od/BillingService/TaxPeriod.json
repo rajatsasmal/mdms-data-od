@@ -3,20 +3,12 @@
   "moduleName": "BillingService",
   "TaxPeriod": [
     {
-      "fromDate": 1648751400000,
-      "toDate": 1680287399000,
-      "periodCycle": "ANNUAL",
-      "service": "WS",
-      "code": "WC2022",
-      "financialYear": "2022-23"
-    },
-    {
       "fromDate": 1585679400000,
-      "toDate": 1648751399000,
-      "periodCycle": "TWOYEARS",
+      "toDate": 1901212199000,
+      "periodCycle": "TENYEARS",
       "service": "WS",
       "code": "WC2020",
-      "financialYear": "2020-22"
+      "financialYear": "2020-30"
     },
     {
       "fromDate": 1648771200000,
