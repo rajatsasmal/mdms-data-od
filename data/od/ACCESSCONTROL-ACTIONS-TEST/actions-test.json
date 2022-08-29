@@ -13410,6 +13410,39 @@
       "serviceCode": "vehicle",
       "code": "null",
       "path": ""
-    }
+    },
+    {
+      "id": 3294,
+      "name": "Employee Wise WS Collection Report",
+      "url": "/report-services/reports/ws/employeeWiseWSCollection",
+      "displayName": "Employee Wise WS Collection Report",
+      "orderNumber": 0,
+      "enabled": false,
+      "serviceCode": "report-services",
+      "code": "null",
+      "path": ""
+   },
+   {
+     "id": 3295,
+     "name": "Month Wise Pending Bill Generation Report",
+     "url": "/report-services/reports/ws/monthWisePendingBillGeneration",
+     "displayName": "Month Wise Pending Bill Generation Report",
+     "orderNumber": 0,
+     "enabled": false,
+     "serviceCode": "report-services",
+     "code": "null",
+     "path": ""
+  },
+  {
+    "id": 3296,
+    "name": "WS Scheduler Based Demands Generation Report",
+    "url": "/report-services/reports/ws/wsSchedulerBasedDemandsGeneration",
+    "displayName": "WS Scheduler Based Demands Generation Report",
+    "orderNumber": 0,
+    "enabled": false,
+    "serviceCode": "report-services",
+    "code": "null",
+    "path": ""
+ }
 ]
 }
