@@ -1283,6 +1283,13 @@
       "uniqueKeys": [
         "$.code"
       ]
+    },
+    "ReceivedPaymentType": {
+        "masterName": "ReceivedPaymentType",
+        "isStateLevel": true,
+        "uniqueKeys": [
+            "$.code"
+      ]
     }
   },
   "Vehicle":{
@@ -1322,7 +1329,6 @@
         "$.code"
       ]
     }
-  }
-  }
-
-}
+   }
+   }
+ }
