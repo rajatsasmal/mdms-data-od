@@ -1284,8 +1284,7 @@
         "$.code"
       ]
     },
-    "ReceivedPaymentType":
-    {
+    "ReceivedPaymentType": {
         "masterName": "ReceivedPaymentType",
         "isStateLevel": true,
         "uniqueKeys": [
