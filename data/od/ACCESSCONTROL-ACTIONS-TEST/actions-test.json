@@ -13443,6 +13443,28 @@
     "serviceCode": "report-services",
     "code": "null",
     "path": ""
- }
+ },
+{
+       "id": 3297,
+       "name": "Platform Usage",
+       "url": "/report-services/reports/ws/platformUsage",
+       "displayName": "Platform Usage",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "report-services",
+       "code": "null",
+       "path": ""
+    },
+    {
+       "id": 3298,
+       "name": "WS Connections Eligible For Demand Generation Report",
+       "url": "/report-services/reports/ws/wsConnectionsEligibleForDemandGeneration",
+       "displayName": "WS Connections Eligible For Demand Generation Report",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "report-services",
+       "code": "null",
+       "path": ""
+    }
 ]
 }
