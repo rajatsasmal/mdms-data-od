@@ -23389,6 +23389,42 @@
       "actionid": 30205,
       "actioncode": "",
       "tenantId": "od"
+    },
+    {
+      "rolecode": "CITIZEN",
+      "actionid": 30206,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_ARCHITECT",
+      "actionid": 30206,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "BPA_TECHNICALPERSON",
+      "actionid": 30206,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 30206,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ACCREDITED_PERSONS_ADMIN",
+      "actionid": 30206,
+      "actioncode": "",
+      "tenantId": "od"
+    },
+    {
+      "rolecode": "ACCREDITED_PERSONS_ADMIN",
+      "actionid": 30207,
+      "actioncode": "",
+      "tenantId": "od"
     }
   ]
 }

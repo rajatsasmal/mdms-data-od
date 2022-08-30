@@ -13496,6 +13496,28 @@
       "path": "Parking",
       "leftIcon": "social:group-add",
       "rightIcon": ""
+   },
+   {
+       "id": 30206,
+       "name": "BPA-accreditedpersonsearch",
+       "url": "/bpa-services/v1/accreditedperson/_search",
+       "displayName": "Search",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "BPA",
+       "code": "null",
+       "path": ""
+   },
+   {
+       "id": 30207,
+       "name": "BPA-accreditedpersoncreate",
+       "url": "/bpa-services/v1/accreditedperson/_create",
+       "displayName": "Apply",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "BPA",
+       "code": "null",
+       "path": ""
    }
 ]
 }
