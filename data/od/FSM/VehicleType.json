@@ -54,7 +54,7 @@
             "capacity": "1000",
             "amount": "800"
         },
-         {
+        {
             "code": "EICHER",
             "name": "TRUCK",
             "active": true,
@@ -70,7 +70,6 @@
             "capacity": "3000",
             "amount": "1500"
         },
-
         {
             "code": "TATA.TRUCK",
             "name": "Truck",
@@ -119,7 +118,6 @@
             "capacity": "1000",
             "amount": "1000"
         },
-
         {
             "code": "TATA.TRUCK",
             "name": "Tuck",
@@ -136,7 +134,6 @@
             "capacity": "1000",
             "amount": "400"
         },
-
         {
             "code": "EICHER",
             "name": "TRUCK",
@@ -241,7 +238,6 @@
             "capacity": "3000",
             "amount": "1000"
         },
-
         {
             "code": "TATA909.TRUCK",
             "name": "TRUCK",
