@@ -45,6 +45,230 @@
             "make": "TRUCK",
             "capacity": "3000",
             "amount": "200"
+        },
+        {
+            "code": "MAHINDRA.PICKUP",
+            "name": "PICKUP",
+            "active": true,
+            "make": "MAHINDRA",
+            "capacity": "1000",
+            "amount": "800"
+        },
+        {
+            "code": "EICHER",
+            "name": "TRUCK",
+            "active": true,
+            "make": "EICHER",
+            "capacity": "3000",
+            "amount": "2500"
+        },
+        {
+            "code": "TATA.TRUCK",
+            "name": "TRUCK",
+            "active": true,
+            "make": "TATA",
+            "capacity": "3000",
+            "amount": "1500"
+        },
+        {
+            "code": "TATA.TRUCK",
+            "name": "Truck",
+            "active": true,
+            "make": "TATA",
+            "capacity": "3000",
+            "amount": "1000"
+        },
+        {
+            "code": "MAHINDRA.TRACTOR",
+            "name": "Mahindra Tractor",
+            "active": true,
+            "make": "MAHINDRA",
+            "capacity": "3000",
+            "amount": "1500"
+        },
+        {
+            "code": "MAHINDRA.PICKUP",
+            "name": "Mahindra Pickup",
+            "active": true,
+            "make": "MAHINDRA",
+            "capacity": "1000",
+            "amount": "700"
+        },
+        {
+            "code": "TATA.TRUCK",
+            "name": "TRUCK",
+            "active": true,
+            "make": "TATA",
+            "capacity": "4000",
+            "amount": "1000"
+        },
+        {
+            "code": "SWARAJ.TRACTOR",
+            "name": "TRACTOR",
+            "active": true,
+            "make": "SWARAJ",
+            "capacity": "5000",
+            "amount": "1800"
+        },
+        {
+            "code": "MAHINDRA.PICKUP",
+            "name": "Pickup",
+            "active": true,
+            "make": "MAHINDRA",
+            "capacity": "1000",
+            "amount": "1000"
+        },
+        {
+            "code": "TATA.TRUCK",
+            "name": "Tuck",
+            "active": true,
+            "make": "TATA",
+            "capacity": "3000",
+            "amount": "1200"
+        },
+        {
+            "code": "MAHINDRA.PICKUP",
+            "name": "Pickup",
+            "active": true,
+            "make": "MAHINDRA",
+            "capacity": "1000",
+            "amount": "400"
+        },
+        {
+            "code": "EICHER",
+            "name": "TRUCK",
+            "active": true,
+            "make": "EICHER",
+            "capacity": "3000",
+            "amount": "1000"
+        },
+        {
+            "code": "MAHINDRA.PICKUP",
+            "name": "PICKUP",
+            "active": true,
+            "make": "MAHINDRA",
+            "capacity": "1000",
+            "amount": "500"
+        },
+        {
+            "code": "TATA.TRUCK",
+            "name": "Tuck",
+            "active": true,
+            "make": "TATA",
+            "capacity": "3000",
+            "amount": "958"
+        },
+        {
+            "code": "MAHINDRA.PICKUP",
+            "name": "PICKUP",
+            "active": true,
+            "make": "MAHINDRA",
+            "capacity": "1000",
+            "amount": "630"
+        },
+        {
+            "code": "TATA.TRUCK",
+            "name": "Truck",
+            "active": true,
+            "make": "TATA",
+            "capacity": "3000",
+            "amount": "948"
+        },
+        {
+            "code": "SWARAJ.TRACTOR",
+            "name": "TRACTOR",
+            "active": true,
+            "make": "SWARAJ",
+            "capacity": "5000",
+            "amount": "2000"
+        },
+        {
+            "code": "MAHINDRA.TRACTOR",
+            "name": "TRACTOR",
+            "active": true,
+            "make": "MAHINDRA",
+            "capacity": "3000",
+            "amount": "1000"
+        },
+        {
+            "code": "TPS.TRUCK",
+            "name": "TRUCK",
+            "active": true,
+            "make": "TPS",
+            "capacity": "3000",
+            "amount": "2000"
+        },
+        {
+            "code": "MAHINDRA.PICKUP",
+            "name": "PICKUP",
+            "active": true,
+            "make": "MAHINDRA",
+            "capacity": "1000",
+            "amount": "500"
+        },
+        {
+            "code": "MAHINDRA.TRACTOR",
+            "name": "Mahindra Tractor",
+            "active": true,
+            "make": "MAHINDRA",
+            "capacity": "3000",
+            "amount": "700"
+        },
+        {
+            "code": "EICHER.PICKUP",
+            "name": "PICKUP",
+            "active": true,
+            "make": "EICHER",
+            "capacity": "3500",
+            "amount": "1100"
+        },
+        {
+            "code": "MAHINDRA.TRACTOR",
+            "name": "Mahindra Tractor",
+            "active": true,
+            "make": "MAHINDRA",
+            "capacity": "3000",
+            "amount": "2000"
+        },
+        {
+            "code": "TATA709.TRUCK",
+            "name": "TRUCK",
+            "active": true,
+            "make": "TATA",
+            "capacity": "3000",
+            "amount": "1000"
+        },
+        {
+            "code": "TATA909.TRUCK",
+            "name": "TRUCK",
+            "active": true,
+            "make": "TATA",
+            "capacity": "3000",
+            "amount": "2000"
+        },
+        {
+            "code": "TATA.TRUCK1",
+            "name": "Truck1",
+            "active": true,
+            "make": "TATA",
+            "capacity": "4000",
+            "amount": "999"
+        },
+        {
+            "code": "TATA.TRUCK2",
+            "name": "Truck2",
+            "active": true,
+            "make": "TATA",
+            "capacity": "3000",
+            "amount": "999"
+        },
+        {
+            "code": "TATA.TRUCK3",
+            "name": "Truck3",
+            "active": true,
+            "make": "TATA",
+            "capacity": "6000",
+            "amount": "999"
         }
     ]
 }
