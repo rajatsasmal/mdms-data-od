@@ -13487,37 +13487,6 @@
        "serviceCode": "BPA",
        "code": "null",
        "path": ""
-    },
-    {
-      "id": 30204,
-     "name": "rainmaker-citizen-parking",
-      "url": "card",
-      "displayName": "Parking",
-      "orderNumber": 2,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "",
-      "navigationURL": "parking-citizen/home",
-      "leftIcon": "social:group-add",
-      "rightIcon": "",
-      "queryParams": ""
-   },	   
-   {
-      "id": 30205,
-      "name": "Parking",
-      "url": "url",
-      "displayName": "Parking",
-      "orderNumber": 13,
-      "parentModule": "",
-      "enabled": true,
-      "serviceCode": "Parking",
-      "code": "null",
-      "navigationURL": "parking-citizen/home",
-      "path": "Parking",
-      "leftIcon": "social:group-add",
-      "rightIcon": ""
-   }
+    }
 ]
 }

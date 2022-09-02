@@ -23413,18 +23413,6 @@
       "actionid": 3300,
       "actioncode": "",
       "tenantId": "od"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 30204,
-      "actioncode": "",
-      "tenantId": "od"
-    },
-    {
-      "rolecode": "CITIZEN",
-      "actionid": 30205,
-      "actioncode": "",
-      "tenantId": "od"
     }
   ]
 }
