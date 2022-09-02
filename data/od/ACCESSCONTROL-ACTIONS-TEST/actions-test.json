@@ -13467,6 +13467,28 @@
        "path": ""
     },
     {
+       "id": 3299,
+       "name": "BPA-accreditedpersonsearch",
+       "url": "/bpa-services/v1/accreditedperson/_search",
+       "displayName": "Search",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "BPA",
+       "code": "null",
+       "path": ""
+    },
+    {
+       "id": 3300,
+       "name": "BPA-accreditedpersoncreate",
+       "url": "/bpa-services/v1/accreditedperson/_create",
+       "displayName": "Apply",
+       "orderNumber": 0,
+       "enabled": false,
+       "serviceCode": "BPA",
+       "code": "null",
+       "path": ""
+    },
+    {
       "id": 30204,
      "name": "rainmaker-citizen-parking",
       "url": "card",

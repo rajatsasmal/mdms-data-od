@@ -906,6 +906,11 @@
       "code": "JALSATHI",
       "name": "JALSATHI",
       "description": "role for taking collection"
+    },
+    {
+      "code": "ACCREDITED_PERSONS_ADMIN",
+      "name": "ACCREDITED_PERSONS_ADMIN",
+      "description": "administrator for accreditor persons"
     }
   ]
 }
